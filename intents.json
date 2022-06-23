@@ -1,0 +1,61 @@
+{
+    "intents": [
+        {
+            "tag": "peminjaman_barang",
+            "patterns": [
+                "peminjaman barang",
+                "meminjam barang",
+                "peminjaman barang filkom"
+            ],
+            "responses": [
+                "Pemberitahuan kepada penanggungjawab ruangan apabila ada di Daftar Inventaris Ruangan, apabila tidak ada berarti mengetahui admin pengelola aset BMN kemudian mengisi form untuk peminjaman aset dengan keterangan akan mengembalikan ke tempat semula apabila telah selesai digunakan. https://halofilkom.ub.ac.id/kb/faq.php?id=11"
+            ]
+        },
+        {
+            "tag": "nilai_praktikum",
+            "patterns": [
+                "bagaimana mendapatkan nilai praktikum",
+                "praktikum nilai",
+                "nilai praktikum untuk semester antara"
+            ],
+            "responses": [
+                "Bila di SIAM sudah ada nilai praktikum, maka nilai tersebut dapat digunakan sebagai persyaratan pendaftaran Semester Antara, Bila tidak ada komponen nilai praktikum pada SIAM, dapat mengajukan permintaan nilai praktikum secara daring dengan mengisi form dan mengunggah hasil scan KHS dari SIAM di https://forms.gle/f17zrxXV27387cV76."
+            ]
+        },
+        {
+            "tag": "pengurusan_surat",
+            "patterns": [
+                "surat akademik",
+                "surat kemahasiswaan",
+                "surat akademik",
+                "bagaimana mengurus surat",
+                "bagaimana mendapatkan surat"
+            ],
+            "responses": [
+                "Informasi mengenai kepengurusan surat secara daring dapat diakses pada tautan https://halofilkom.ub.ac.id/kb/faq.php?id=7."
+            ]
+        },
+        {
+            "tag": "diskon_ukt",
+            "patterns": [
+                "bagaimana mendapatkan ukt semester akhir",
+                "diskon ukt untuk mahasiswa akhir",
+                "potongan ukt untuk mahasiswa akhir"
+            ],
+            "responses": [
+                "Informasi mengenai potongan ukt bagi mahasiswa semester akhir dapat diakses pada https://halofilkom.ub.ac.id/kb/faq.php?id=12"
+            ]
+        },
+        {
+            "tag": "rekomendasi_mbkm",
+            "patterns": [
+                "bagaimana mendapatkan surat rekomendasi mbkm",
+                "surat rekomendasi mbkm"
+            ],
+            "responses": [
+                "Surat Rekomendasi untuk mengikuti kegiatan Merdeka Belajar Kampus Merdeka (MBKM) dapat diperoleh dengan mengisi form pada tautan berikut: https://s.ub.ac.id/2n"
+            ]
+        }
+        
+    ]
+}

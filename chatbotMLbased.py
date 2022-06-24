@@ -134,7 +134,7 @@ def get_response(intents_list, intents_json):
 
 while True:
     print()
-    message = input("ANDA : \n")
+    message = input("MAHASISWA : \n")
     intents = pred_class(message, words, classes)
     result = get_response(intents, data)
     print("HALO FILKOM : \n{}".format(result))

@@ -5,7 +5,10 @@
             "patterns": [
                 "peminjaman barang",
                 "meminjam barang",
-                "peminjaman barang filkom"
+                "peminjaman barang filkom",
+                "peminjaman ruangan",
+                "meminjam ruangan",
+                "peminjaman ruangan filkom"
             ],
             "responses": [
                 "Pemberitahuan kepada penanggungjawab ruangan apabila ada di Daftar Inventaris Ruangan, apabila tidak ada berarti mengetahui admin pengelola aset BMN kemudian mengisi form untuk peminjaman aset dengan keterangan akan mengembalikan ke tempat semula apabila telah selesai digunakan. https://halofilkom.ub.ac.id/kb/faq.php?id=11"

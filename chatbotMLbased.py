@@ -14,9 +14,6 @@ from tensorflow import keras
 from tensorflow.keras import Sequential
 from tensorflow.keras.layers import Dense, Dropout
 
-nltk.download("punkt")
-nltk.download("wordnet")
-
 f = open("intents.json")
 data = json.load(f)
 f.close()
@@ -78,20 +75,7 @@ output_shape = len(train_y[0])
 epochs = 200
 
 # deep learning model
-model = Sequential()
-model.add(Dense(128, input_shape=input_shape, activation="relu"))
-model.add(Dropout(0.5))
-model.add(Dense(64, activation="relu"))
-model.add(Dropout(0.3))
-model.add(Dense(output_shape, activation="softmax"))
-adam = tf.keras.optimizers.Adam(learning_rate=0.01, decay=1e-6)
-model.compile(loss='categorical_crossentropy',
-              optimizer=adam,
-              metrics=["accuracy"])
-print(model.summary())
-
-model.fit(x=train_X, y=train_y, epochs=15, verbose=1)
-
+model = tf.keras.models.load_model('model_chatbot.h5')
 
 def clean_text(text):
     tokens = nltk.word_tokenize(text)
@@ -109,7 +93,7 @@ def bag_of_words(text, vocab):
     return np.array(bow)
 
 
-def pred_class(text, vocab, labels):
+def pred_class(text, vocab=words, labels=classes):
     bow = bag_of_words(text, vocab)
     result = model.predict(np.array([bow]))[0]
     thresh = 0.2
@@ -122,7 +106,7 @@ def pred_class(text, vocab, labels):
     return return_list
 
 
-def get_response(intents_list, intents_json):
+def get_response(intents_list, intents_json = data):
     tag = intents_list[0]
     list_of_intents = intents_json["intents"]
     for i in list_of_intents:
@@ -130,11 +114,3 @@ def get_response(intents_list, intents_json):
             result = random.choice(i["responses"])
             break
     return result
-
-
-while True:
-    print()
-    message = input("MAHASISWA : \n")
-    intents = pred_class(message, words, classes)
-    result = get_response(intents, data)
-    print("HALO FILKOM : \n{}".format(result))

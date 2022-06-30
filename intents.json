@@ -58,7 +58,44 @@
             "responses": [
                 "Surat Rekomendasi untuk mengikuti kegiatan Merdeka Belajar Kampus Merdeka (MBKM) dapat diperoleh dengan mengisi form pada tautan berikut: https://s.ub.ac.id/2n"
             ]
+        },
+        {
+            "tag": "wisura",
+            "patterns": [
+                "wisuda",
+                "mekanisme wisuda",
+                "tata cara wisuda",
+                "wisuda bagi mahasiswa",
+                "mendaftar wisud"                
+            ],
+            "responses": [
+                "Untuk melihat mekanisme pendaftaran wisuda dapat dilihat pada tautan berikut https://halofilkom.ub.ac.id/kb/faq.php?id=9"
+            ]
+        },
+        {
+            "tag": "bantuan_keuangan",
+            "patterns" : [
+                "bantuan keuangan",
+                "bantuan ukt bagi mahasiswa",
+                "forumulir pengajuan keuangan",
+                "pengajuan keuangan"
+            ],
+            "responses": [
+                "Untuk pengajuan keuangan anda dalam melihat laman https://sibaku.ub.ac.id sesuai jadwal yang ditentukan."
+            ]
+        },
+        {
+            "tag": "pembayaran_ukt",
+            "patterns" : [
+                "membayar ukt",
+                "pembayaran ukt",
+                "pembayaran ukt bagi mahasiswa",
+                "pembayaran ukt mahasiswa",
+                "metode pembayaran ukt"
+            ],
+            "responses": [
+                "Untuk melakukan pembayaran UKT, SPP, IPI dapat dilihat pada laman https://selma.ub.ac.id/tata-cara-pembayaran/"
+            ]
         }
-        
     ]
 }

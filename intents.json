@@ -96,6 +96,31 @@
             "responses": [
                 "Untuk melakukan pembayaran UKT, SPP, IPI dapat dilihat pada laman https://selma.ub.ac.id/tata-cara-pembayaran/"
             ]
+        },
+        {
+            "tag":"sapaan",
+            "patterns": [
+                "halo",
+                "selamat siang",
+                "selamat malam",
+                "selamat pagi",
+                "salam"
+            ],
+            "responses": [
+                "Halo, saya disini HaloFILKOM Bot akan membantu anda dalam menjawab pertanyaan anda untuk urusan kemahasiswaan dan akademik 😁🙏."
+            ]
+        },
+        {
+            "tag":"penutup",
+            "patterns": [
+                "terima kasih",
+                "menjawab",
+                "sudah menjawab",
+                "cukup"
+            ],
+            "responses": [
+                "Terima kasih telah menggunakan layanan HaloFILKOM Bot, jika ada hal hal yang ingin ditanyakan lebih lanjut jangan ragu menghubungi saya lagi. Have a good day 🙏."
+            ]
         }
     ]
 }

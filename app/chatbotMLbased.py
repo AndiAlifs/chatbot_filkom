@@ -11,8 +11,6 @@ from nltk.stem import WordNetLemmatizer
 
 import tensorflow as tf
 from tensorflow import keras
-from tensorflow.keras import Sequential
-from tensorflow.keras.layers import Dense, Dropout
 
 f = open("intents.json")
 data = json.load(f)

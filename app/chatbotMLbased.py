@@ -1,16 +1,12 @@
-from ctypes.wintypes import tagMSG
-from email import message
 import json
 import random
 import string
-from unittest import result
 
 import nltk
 import numpy as np
 from nltk.stem import WordNetLemmatizer
 
 import tensorflow as tf
-from tensorflow import keras
 
 f = open("intents.json")
 data = json.load(f)

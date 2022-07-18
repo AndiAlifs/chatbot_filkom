@@ -5,7 +5,11 @@ import string
 import nltk
 import numpy as np
 from nltk.stem import WordNetLemmatizer
+
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3' 
 import tensorflow as tf
+
 
 
 f = open("intents.json")

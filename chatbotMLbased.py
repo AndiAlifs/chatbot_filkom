@@ -1,12 +1,12 @@
-import json
+import json 
 import random
 import string
 
 import nltk
 import numpy as np
 from nltk.stem import WordNetLemmatizer
-
 import tensorflow as tf
+
 
 f = open("intents.json")
 data = json.load(f)
@@ -55,21 +55,9 @@ for idx, doc in enumerate(doc_X):
     # add the one hot encoded BoW and associated classes to training
     training.append([bow, output_row])
 
-# shuffle the data and convert it to an array
-random.shuffle(training)
-training = np.array(training, dtype=object)
-
-# split the features and target labels
-train_X = np.array(list(training[:, 0]))
-train_y = np.array(list(training[:, 1]))
-
-# defining some parameters
-input_shape = (len(train_X[0]),)
-output_shape = len(train_y[0])
-epochs = 200
 
 # deep learning model
-model = tf.keras.models.load_model('model_chatbot.h5')
+model = tf.keras.models.load_model("model_chatbot.h5")
 
 def clean_text(text):
     tokens = nltk.word_tokenize(text)

@@ -1,8 +1,5 @@
 from flask import Flask, render_template, request
 
-import sys
-sys.path.insert(0, 'chatbotMLbased.py')
-
 import chatbotMLbased as chatbot
 
 

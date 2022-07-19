@@ -1,4 +1,5 @@
-import json 
+import json
+from logging import warning 
 import random
 import string
 
@@ -6,8 +7,10 @@ import nltk
 import numpy as np
 from nltk.stem import WordNetLemmatizer
 
+# ignore warning
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3' 
+
 import tensorflow as tf
 
 

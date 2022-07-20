@@ -11,7 +11,9 @@ from nltk.stem import WordNetLemmatizer
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3' 
 
-import tensorflow as tf
+import sklearn
+
+import pickle
 
 
 
@@ -64,7 +66,9 @@ for idx, doc in enumerate(doc_X):
 
 
 # deep learning model
-model = tf.keras.models.load_model("model_chatbot.h5")
+# model = tf.keras.models.load_model("model_chatbot.h5")
+model = pickle.load(open("modelml_chatbot.pkl", "rb"))
+
 
 def clean_text(text):
     tokens = nltk.word_tokenize(text)

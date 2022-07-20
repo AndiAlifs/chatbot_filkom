@@ -19,5 +19,5 @@ def get_bot_response():
     intent = chatbot.pred_class(userText)
     return str(chatbot.get_response(intent))
 
-if __name__ == "__main__":
+if __name__ == "__app__":
     app.run()

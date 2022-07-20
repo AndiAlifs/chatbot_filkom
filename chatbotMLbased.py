@@ -15,7 +15,8 @@ from nltk.stem import WordNetLemmatizer
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3' 
 
-import sklearn
+import tensorflow as tf
+# import sklearn
 
 import pickle
 
@@ -69,9 +70,11 @@ for idx, doc in enumerate(doc_X):
     training.append([bow, output_row])
 
 
-# deep learning model
-# model = tf.keras.models.load_model("model_chatbot.h5")
-model = pickle.load(open("modelml_chatbot.pkl", "rb"))
+# deep learning model uncomment to load
+model = tf.keras.models.load_model("model_chatbot.h5")
+
+# machine learning model, uncomment to load
+# model = pickle.load(open("modelml_chatbot.pkl", "rb"))
 
 
 def clean_text(text):
@@ -86,7 +89,7 @@ def bag_of_words(text, vocab):
     for w in tokens:
         for idx, word in enumerate(vocab):
             if word == w:
-                bow[idx] = 1
+                bow[idx] += 1
     return np.array(bow)
 
 

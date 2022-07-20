@@ -4,9 +4,9 @@ import random
 import string
 
 import nltk
-nltk.download("punkt")
-nltk.download("wordnet")
-nltk.download('omw-1.4')
+nltk.download("punkt", quiet=True)
+nltk.download("wordnet", quiet=True)
+nltk.download('omw-1.4', quiet=True)
 
 import numpy as np
 from nltk.stem import WordNetLemmatizer
@@ -20,6 +20,8 @@ import tensorflow as tf
 
 import pickle
 
+import re, math
+from collections import Counter
 
 
 f = open("intents.json")
@@ -88,7 +90,7 @@ def bag_of_words(text, vocab):
     bow = [0] * len(vocab)
     for w in tokens:
         for idx, word in enumerate(vocab):
-            if word == w:
+            if kesamaan(word,w) > 0.75:
                 bow[idx] += 1
     return np.array(bow)
 
@@ -114,3 +116,34 @@ def get_response(intents_list, intents_json = data):
             result = random.choice(i["responses"])
             break
     return result
+
+# Text cosine similiarity
+def get_cosine(vec1, vec2):
+    intersection = set(vec1.keys()) & set(vec2.keys())
+    numerator = sum([vec1[x] * vec2[x] for x in intersection])
+
+    sum1 = sum([vec1[x]**2 for x in vec1.keys()])
+    sum2 = sum([vec2[x]**2 for x in vec2.keys()])
+    denominator = math.sqrt(sum1) * math.sqrt(sum2)
+
+    if not denominator:
+        return 0.0
+    else:
+        return float(numerator) / (denominator)
+
+
+def text_to_vector(text):
+    word = re.compile(r'\w+')
+    words = word.findall(text)
+    return Counter(words)
+
+
+def kesamaan(content_a, content_b):
+    text1 = " ".join(content_a)
+    text2 = " ".join(content_b)
+
+    vector1 = text_to_vector(text1)
+    vector2 = text_to_vector(text2)
+
+    cosine_result = get_cosine(vector1, vector2)
+    return cosine_result

@@ -11,7 +11,7 @@
                 "peminjaman ruangan filkom"
             ],
             "responses": [
-                "Pemberitahuan kepada penanggungjawab ruangan apabila ada di Daftar Inventaris Ruangan, apabila tidak ada berarti mengetahui admin pengelola aset BMN kemudian mengisi form untuk peminjaman aset dengan keterangan akan mengembalikan ke tempat semula apabila telah selesai digunakan. <a href='https://halofilkom.ub.ac.id/kb/faq.php?id=11'>Klik disini untuk melihat detail</a>"
+                "Pemberitahuan kepada penanggungjawab ruangan apabila ada di Daftar Inventaris Ruangan, apabila tidak ada berarti mengetahui admin pengelola aset BMN kemudian mengisi form untuk peminjaman aset dengan keterangan akan mengembalikan ke tempat semula apabila telah selesai digunakan. <a href='https://halofilkom.ub.ac.id/kb/faq.php?id=11' target='_blank'>Klik disini untuk melihat detail</a>"
             ]
         },
         {
@@ -22,7 +22,7 @@
                 "nilai praktikum untuk semester antara"
             ],
             "responses": [
-                "Bila di SIAM sudah ada nilai praktikum, maka nilai tersebut dapat digunakan sebagai persyaratan pendaftaran Semester Antara, Bila tidak ada komponen nilai praktikum pada SIAM, dapat mengajukan permintaan nilai praktikum secara daring dengan mengisi form dan mengunggah hasil scan KHS dari SIAM di <a href='https://forms.gle/f17zrxXV27387cV76'>Formulir Pendaftaran Semester Antara</a>"
+                "Bila di SIAM sudah ada nilai praktikum, maka nilai tersebut dapat digunakan sebagai persyaratan pendaftaran Semester Antara, Bila tidak ada komponen nilai praktikum pada SIAM, dapat mengajukan permintaan nilai praktikum secara daring dengan mengisi form dan mengunggah hasil scan KHS dari SIAM di <a href='https://forms.gle/f17zrxXV27387cV76' target='_blank'>Formulir Pendaftaran Semester Antara</a>"
             ]
         },
         {
@@ -35,18 +35,20 @@
                 "bagaimana mendapatkan surat"
             ],
             "responses": [
-                "Informasi mengenai kepengurusan surat secara daring dapat diakses pada tautan <a href='https://halofilkom.ub.ac.id/kb/faq.php?id=7'>Klik disini</a>"
+                "Informasi mengenai kepengurusan surat secara daring dapat diakses pada tautan <a href='https://halofilkom.ub.ac.id/kb/faq.php?id=7' target='_blank'>Klik disini</a>"
             ]
         },
         {
             "tag": "diskon_ukt",
             "patterns": [
-                "bagaimana mendapatkan ukt semester akhir",
-                "diskon ukt untuk mahasiswa akhir",
-                "potongan ukt untuk mahasiswa akhir"
+                " ukt semester akhir",
+                "diskon ukt mahasiswa akhir",
+                "potongan ukt mahasiswa akhir",
+                "semester akhir",
+                "mahasiswa akhir"
             ],
             "responses": [
-                "Informasi mengenai potongan ukt bagi mahasiswa semester akhir dapat diakses pada <a href='https://halofilkom.ub.ac.id/kb/faq.php?id=12'>Klik disini</a>"
+                "Informasi mengenai potongan ukt bagi mahasiswa semester akhir dapat diakses pada <a href='https://halofilkom.ub.ac.id/kb/faq.php?id=12' target='_blank'>Klik disini</a>"
             ]
         },
         {
@@ -56,7 +58,7 @@
                 "surat rekomendasi mbkm"
             ],
             "responses": [
-                "Surat Rekomendasi untuk mengikuti kegiatan Merdeka Belajar Kampus Merdeka (MBKM) dapat diperoleh dengan mengisi form pada tautan berikut: <a href='https://s.ub.ac.id/2n'>Klik disini</a>"
+                "Surat Rekomendasi untuk mengikuti kegiatan Merdeka Belajar Kampus Merdeka (MBKM) dapat diperoleh dengan mengisi form pada tautan berikut: <a href='https://s.ub.ac.id/2n' target='_blank'>Klik disini</a>"
             ]
         },
         {
@@ -69,7 +71,7 @@
                 "mendaftar wisuda"                
             ],
             "responses": [
-                "Untuk melihat mekanisme pendaftaran wisuda dapat dilihat pada tautan berikut <a href='https://halofilkom.ub.ac.id/kb/faq.php?id=9'>Klik disini</a>"
+                "Untuk melihat mekanisme pendaftaran wisuda dapat dilihat pada tautan berikut <a href='https://halofilkom.ub.ac.id/kb/faq.php?id=9' target='_blank'>Klik disini</a>"
             ]
         },
         {
@@ -81,7 +83,7 @@
                 "pengajuan keuangan"
             ],
             "responses": [
-                "Untuk pengajuan keuangan anda dalam melihat <a href='https://sibaku.ub.ac.id'> laman berikut </a> sesuai jadwal yang ditentukan."
+                "Untuk pengajuan keuangan anda dalam melihat <a href='https://sibaku.ub.ac.id' target='_blank'> laman berikut </a> sesuai jadwal yang ditentukan."
             ]
         },
         {

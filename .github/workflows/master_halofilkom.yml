@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'halofilkom'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BE8FD08F04A94D8897352BDEA88E3BF5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7BCF6A03BFDD461B8F890E8638B0300B }}

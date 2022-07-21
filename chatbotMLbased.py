@@ -17,8 +17,7 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
 import tensorflow as tf
 # import sklearn
-
-import pickle
+# import pickle
 
 import re, math
 from collections import Counter
@@ -90,8 +89,8 @@ def bag_of_words(text, vocab):
     bow = [0] * len(vocab)
     for w in tokens:
         for idx, word in enumerate(vocab):
-            if kesamaan(word,w) > 0.75:
-                bow[idx] == 1
+            if (kesamaan(word,w) > 0.75):
+                bow[idx] = 1
     return np.array(bow)
 
 
@@ -134,8 +133,8 @@ def get_cosine(vec1, vec2):
 
 def text_to_vector(text):
     word = re.compile(r'\w+')
-    words = word.findall(text)
-    return Counter(words)
+    word = word.findall(text)
+    return Counter(word)
 
 
 def kesamaan(content_a, content_b):

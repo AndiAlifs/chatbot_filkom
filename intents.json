@@ -41,7 +41,7 @@
         {
             "tag": "diskon_ukt",
             "patterns": [
-                " ukt semester akhir",
+                "ukt semester akhir",
                 "diskon ukt mahasiswa akhir",
                 "potongan ukt mahasiswa akhir",
                 "semester akhir",
@@ -93,10 +93,7 @@
             "tag": "pembayaran_ukt",
             "patterns" : [
                 "bayar ukt",
-                "pembayaran ukt",
-                "pembayaran ukt bagi mahasiswa",
-                "pembayaran ukt mahasiswa",
-                "metode bayar ukt"
+                "pembayaran ukt"
             ],
             "responses": [
                 "Untuk melakukan pembayaran UKT, SPP, IPI dapat dilihat pada laman <a href='https://selma.ub.ac.id/tata-cara-pembayaran' target='_blank'>Klik disini</a>"

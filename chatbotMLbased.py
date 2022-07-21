@@ -91,7 +91,7 @@ def bag_of_words(text, vocab):
     for w in tokens:
         for idx, word in enumerate(vocab):
             if kesamaan(word,w) > 0.75:
-                bow[idx] += 1
+                bow[idx] == 1
     return np.array(bow)
 
 

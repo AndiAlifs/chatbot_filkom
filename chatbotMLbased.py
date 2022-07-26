@@ -89,45 +89,29 @@ def bag_of_words(text, vocab):
     bow = [0] * len(vocab)
     for w in tokens:
         for idx, word in enumerate(vocab):
-            if (kesamaan(word,w) > 0.75):
+            if (kesamaan(word,w) > 0.85):
                 bow[idx] = 1
     return np.array(bow)
 
 
-def pred_class(text, vocab, labels):
+def pred_class(text, vocab=words, labels=classes):
     bow = bag_of_words(text, vocab)
     result = model.predict(np.array([bow]))[0]
 
-    # melakukan iterasi dari seluruh kemungkinan kelas
+    # melakukan iterasi dari seluruh kemungkinan kelas dan melelminasi kelas dibawah threshold
     thresh = 0.5
     y_pred = [[idx, res] for idx, res in enumerate(result) if res > thresh]
 
     y_pred.sort(key=lambda x: x[1], reverse=True)
     return_list = []
 
+    # mengurutkan kelas berdasarkan probability tertinggi
     for r in y_pred:
         return_list.append(labels[r[0]])
     if (len(return_list)) == 0:
         return ["no_response"]
     else:
         return return_list
-
-def pred_class_ml(text, vocab, labels):
-    bow = bag_of_words(text, vocab)
-    result = model_ml.predict(np.array([bow]))[0]
-    thresh = 0.5
-    y_pred = [[idx, res] for idx, res in enumerate(result) if res > thresh]
-
-    y_pred.sort(key=lambda x: x[1], reverse=True)
-    return_list = []
-
-    for r in y_pred:
-        return_list.append(labels[r[0]])
-    if (len(return_list)) == 0:
-        return ["no_response"]
-    else:
-        return return_list
-
 
 def get_response(intents_list, intents_json = data):
     tag = intents_list[0]

@@ -125,6 +125,12 @@
             "responses": [
                 "Terima kasih telah menggunakan layanan HaloFILKOM Bot, jika ada hal hal yang ingin ditanyakan lebih lanjut jangan ragu menghubungi saya lagi. Have a good day."
             ]
+        },
+        {
+            "tag":"no_response",
+            "responses": [
+                "Pertanyaan belum saya kenali, silahkan menghubungi unit terkait untuk menjawab pertanyaan tersebut di HaloFILKOM."
+            ]
         }
     ]
 }

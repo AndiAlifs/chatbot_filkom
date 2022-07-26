@@ -128,6 +128,7 @@
         },
         {
             "tag":"no_response",
+            "patterns": [],
             "responses": [
                 "Pertanyaan belum saya kenali, silahkan menghubungi unit terkait untuk menjawab pertanyaan tersebut di HaloFILKOM."
             ]

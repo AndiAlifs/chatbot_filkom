@@ -3,12 +3,11 @@
         {
             "tag": "peminjaman_barang",
             "patterns": [
-                "peminjaman barang",
-                "meminjam barang",
-                "peminjaman barang filkom",
-                "peminjaman ruangan",
-                "meminjam ruangan",
-                "peminjaman ruangan filkom"
+                "pinjan barang",
+                "pinjam ruangan",
+                "butuh barang",
+                "butuh inventaris",
+                "pinjam inventaris"
             ],
             "responses": [
                 "Pemberitahuan kepada penanggungjawab ruangan apabila ada di Daftar Inventaris Ruangan, apabila tidak ada berarti mengetahui admin pengelola aset BMN kemudian mengisi form untuk peminjaman aset dengan keterangan akan mengembalikan ke tempat semula apabila telah selesai digunakan. <a href='https://halofilkom.ub.ac.id/kb/faq.php?id=11' target='_blank'>Klik disini untuk melihat detail</a>"
@@ -17,9 +16,9 @@
         {
             "tag": "nilai_praktikum",
             "patterns": [
-                "bagaimana mendapatkan nilai praktikum",
+                "dapat nilai praktikum",
                 "praktikum nilai",
-                "nilai praktikum untuk semester antara"
+                "nilai praktikum semester antara"
             ],
             "responses": [
                 "Bila di SIAM sudah ada nilai praktikum, maka nilai tersebut dapat digunakan sebagai persyaratan pendaftaran Semester Antara, Bila tidak ada komponen nilai praktikum pada SIAM, dapat mengajukan permintaan nilai praktikum secara daring dengan mengisi form dan mengunggah hasil scan KHS dari SIAM di <a href='https://forms.gle/f17zrxXV27387cV76' target='_blank'>Formulir Pendaftaran Semester Antara</a>"
@@ -31,8 +30,8 @@
                 "surat akademik",
                 "surat kemahasiswaan",
                 "surat akademik",
-                "bagaimana mengurus surat",
-                "bagaimana mendapatkan surat"
+                "mengurus surat",
+                "mendapatkan surat"
             ],
             "responses": [
                 "Informasi mengenai kepengurusan surat secara daring dapat diakses pada tautan <a href='https://halofilkom.ub.ac.id/kb/faq.php?id=7' target='_blank'>Klik disini</a>"
@@ -42,10 +41,11 @@
             "tag": "diskon_ukt",
             "patterns": [
                 "ukt semester akhir",
-                "diskon ukt mahasiswa akhir",
+                "ukt mahasiswa akhir",
                 "potongan ukt mahasiswa akhir",
                 "semester akhir",
-                "mahasiswa akhir"
+                "mahasiswa akhir",
+                "ukt semester akhir"
             ],
             "responses": [
                 "Informasi mengenai potongan ukt bagi mahasiswa semester akhir dapat diakses pada <a href='https://halofilkom.ub.ac.id/kb/faq.php?id=12' target='_blank'>Klik disini</a>"
@@ -55,7 +55,8 @@
             "tag": "rekomendasi_mbkm",
             "patterns": [
                 "bagaimana mendapatkan surat rekomendasi mbkm",
-                "surat rekomendasi mbkm"
+                "surat rekomendasi mbkm",
+                "mbkm"
             ],
             "responses": [
                 "Surat Rekomendasi untuk mengikuti kegiatan Merdeka Belajar Kampus Merdeka (MBKM) dapat diperoleh dengan mengisi form pada tautan berikut: <a href='https://s.ub.ac.id/2n' target='_blank'>Klik disini</a>"
@@ -83,10 +84,13 @@
                 "pengajuan keuangan",
                 "bantuan ukt",
                 "keringanan ukt",
-                "potongan ukt"
+                "potongan ukt",
+                "bantuan bayar ukt",
+                "keringanan bayar ukt",
+                "potongan bayar ukt"
             ],
             "responses": [
-                "Untuk pengajuan keuangan anda dalam melihat <a href='https://sibaku.ub.ac.id' target='_blank'> laman berikut </a> sesuai jadwal yang ditentukan."
+                "Untuk pengajuan bantuan keuangan anda dalam melihat <a href='https://sibaku.ub.ac.id' target='_blank'> laman berikut </a> sesuai jadwal yang ditentukan."
             ]
         },
         {
@@ -95,7 +99,9 @@
                 "bayar",
                 "bayar ukt mahasiswa",
                 "tata cara bayar",
-                "tagihan"
+                "tagihan",
+                "cara bayar",
+                "mekanisme bayar"
             ],
             "responses": [
                 "Untuk melakukan pembayaran UKT, SPP, IPI dapat dilihat pada laman <a href='https://selma.ub.ac.id/tata-cara-pembayaran' target='_blank'>Klik disini</a>"

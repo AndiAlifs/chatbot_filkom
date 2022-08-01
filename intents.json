@@ -3,11 +3,11 @@
         {
             "tag": "peminjaman_barang",
             "patterns": [
-                "pinjan barang",
-                "pinjam ruangan",
+                "peminjaman barang",
+                "peminjaman ruangan",
                 "butuh barang",
                 "butuh inventaris",
-                "pinjam inventaris"
+                "peminjaman inventaris"
             ],
             "responses": [
                 "Pemberitahuan kepada penanggungjawab ruangan apabila ada di Daftar Inventaris Ruangan, apabila tidak ada berarti mengetahui admin pengelola aset BMN kemudian mengisi form untuk peminjaman aset dengan keterangan akan mengembalikan ke tempat semula apabila telah selesai digunakan. <a href='https://halofilkom.ub.ac.id/kb/faq.php?id=11' target='_blank'>Klik disini untuk melihat detail</a>"
@@ -54,9 +54,9 @@
         {
             "tag": "rekomendasi_mbkm",
             "patterns": [
-                "bagaimana mendapatkan surat rekomendasi mbkm",
                 "surat rekomendasi mbkm",
-                "mbkm"
+                "mbkm",
+                "administrasi mbkm"
             ],
             "responses": [
                 "Surat Rekomendasi untuk mengikuti kegiatan Merdeka Belajar Kampus Merdeka (MBKM) dapat diperoleh dengan mengisi form pada tautan berikut: <a href='https://s.ub.ac.id/2n' target='_blank'>Klik disini</a>"
@@ -69,7 +69,8 @@
                 "mekanisme wisuda",
                 "tata cara wisuda",
                 "wisuda bagi mahasiswa",
-                "mendaftar wisuda"                
+                "mendaftar wisuda",
+                "daftar wisuda"              
             ],
             "responses": [
                 "Untuk melihat mekanisme pendaftaran wisuda dapat dilihat pada tautan berikut <a href='https://halofilkom.ub.ac.id/kb/faq.php?id=9' target='_blank'>Klik disini</a>"
@@ -80,7 +81,7 @@
             "patterns" : [
                 "bantuan keuangan",
                 "bantuan ukt bagi mahasiswa",
-                "forumulir pengajuan keuangan",
+                "formulir bantuan keuangan",
                 "pengajuan keuangan",
                 "bantuan ukt",
                 "keringanan ukt",
@@ -99,9 +100,11 @@
                 "bayar",
                 "bayar ukt mahasiswa",
                 "tata cara bayar",
-                "tagihan",
+                "tagihan ukt",
                 "cara bayar",
-                "mekanisme bayar"
+                "mekanisme bayar",
+                "lunas ukt",
+                "melunasi ukt"
             ],
             "responses": [
                 "Untuk melakukan pembayaran UKT, SPP, IPI dapat dilihat pada laman <a href='https://selma.ub.ac.id/tata-cara-pembayaran' target='_blank'>Klik disini</a>"

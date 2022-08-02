@@ -10,7 +10,7 @@
                 "peminjaman inventaris"
             ],
             "responses": [
-                "Pemberitahuan kepada penanggungjawab ruangan apabila ada di Daftar Inventaris Ruangan, apabila tidak ada berarti mengetahui admin pengelola aset BMN kemudian mengisi form untuk peminjaman aset dengan keterangan akan mengembalikan ke tempat semula apabila telah selesai digunakan. <a href='https://halofilkom.ub.ac.id/kb/faq.php?id=11' target='_blank'>Klik disini untuk melihat detail</a>"
+                "Peminjaman dapat diinformasikan kepada penanggungjawab ruangan apabila ada di Daftar Inventaris Ruangan, apabila tidak ada berarti mengetahui admin pengelola aset BMN kemudian mengisi form untuk peminjaman aset dengan keterangan akan mengembalikan ke tempat semula apabila telah selesai digunakan. <a href='https://halofilkom.ub.ac.id/kb/faq.php?id=11' target='_blank'>Klik disini untuk melihat detail</a>"
             ]
         },
         {
@@ -80,12 +80,12 @@
         {
             "tag": "bantuan_keuangan",
             "patterns" : [
-                "bantuan keuangan",
-                "bantuan ukt bagi mahasiswa",
-                "formulir bantuan keuangan",
                 "bantuan ukt",
                 "keringanan ukt",
-                "potongan ukt"
+                "potongan ukt",
+                "bantuan keuangan",
+                "bantuan ukt bagi mahasiswa",
+                "formulir bantuan keuangan"
             ],
             "responses": [
                 "Untuk pengajuan bantuan keuangan anda dalam melihat <a href='https://sibaku.ub.ac.id' target='_blank'> laman berikut </a> sesuai jadwal yang ditentukan."
@@ -94,10 +94,10 @@
         {
             "tag": "pembayaran_ukt",
             "patterns" : [
-                "bayar",
-                "tata cara bayar",
+                "bayar ukt",
+                "tata cara bayar ukt",
                 "tagihan ukt",
-                "cara bayar",
+                "cara bayar ukt",
                 "mekanisme bayar"
             ],
             "responses": [

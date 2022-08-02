@@ -49,10 +49,17 @@
           </div>
 
           <div class="msg-text">
-            Halo, Selamat datang di HaloFILKOM😄
+            Saat ini HaloFILKOM Bot hanya mampu menjawab pertanyaan yang berkaitan dengan topik dibawah ini : 
           </div>
           <div class="msg-text">
-            Silahkan menanyakan hal hal terkait akademik, kemahasiswaan, dan sebagainya....
+            1. Tata cara wisuda <br>
+            2. Surat rekomendasi MBKM <br>
+            3. Bantuan Keuangan / Keringanan UKT <br>
+            4. Potongan UKT bagi mahasiswa akhir <br>
+            5. Tata cara pembayaran ukt <br>
+            6. Peminjaman barang / inventaris FILKOM <br>
+            7. Transkrip Nilai Praktikum untuk semester antara <br>
+            8. Pengurusan Surat Akademik, Kemahasiswaan, dsb <br>
           </div>
         </div>
       </div>
@@ -115,7 +122,9 @@
         console.log(data);
         const msgText = data;
         appendMessage(BOT_NAME, BOT_IMG, "left", msgText);
-        appendMessage(BOT_NAME, BOT_IMG, "left", "Apakah ada pertanyaan yang ingin anda tanyakan atau sudah cukup?");
+        if (msgText != "Terima kasih telah menggunakan layanan HaloFILKOM Bot, jika ada hal hal yang ingin ditanyakan lebih lanjut jangan ragu menghubungi saya lagi. Have a good day.") {
+          appendMessage(BOT_NAME, BOT_IMG, "left", "Apakah ada pertanyaan yang ingin anda tanyakan atau sudah cukup?");
+        }
       });
 
     }

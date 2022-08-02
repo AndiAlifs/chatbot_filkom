@@ -89,7 +89,7 @@ def bag_of_words(text, vocab):
     bow = [0] * len(vocab)
     for w in tokens:
         for idx, word in enumerate(vocab):
-            if (kesamaan(word,w) > 0.85):
+            if (kesamaan(word,w) > 0.90):
                 bow[idx] = 1
     return np.array(bow)
 
@@ -98,7 +98,7 @@ def pred_class(text, vocab=words, labels=classes):
     bow = bag_of_words(text, vocab)
     result = model.predict(np.array([bow]))[0]
 
-    # melakukan iterasi dari seluruh kemungkinan kelas dan melelminasi kelas dibawah threshold
+    # melakukan iterasi dari seluruh kemungkinan kelas dan melelminasi probability kelas dibawah threshold
     thresh = 0.3
     y_pred = [[idx, res] for idx, res in enumerate(result) if res > thresh]
 

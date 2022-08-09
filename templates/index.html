@@ -64,7 +64,6 @@
         </div>
       </div>
     </main>
-
     <form class="msger-inputarea">
       <input type="text" class="msger-input" id="textInput" placeholder="Masukkan pertanyaan anda...">
       <button type="submit" class="msger-send-btn">Kirim</button>
@@ -124,6 +123,9 @@
         appendMessage(BOT_NAME, BOT_IMG, "left", msgText);
         if (msgText != "Terima kasih telah menggunakan layanan HaloFILKOM Bot, jika ada hal hal yang ingin ditanyakan lebih lanjut jangan ragu menghubungi saya lagi. Have a good day.") {
           appendMessage(BOT_NAME, BOT_IMG, "left", "Apakah ada pertanyaan yang ingin anda tanyakan atau sudah cukup?");
+        } else {
+          appendMessage(BOT_NAME, BOT_IMG, "left","Jika berkenan silahkan mengisi form berikut sebagai bentuk evaluasi dari penelitian dan pengembangan kami. Terima kasih 😊🙏");
+          appendMessage(BOT_NAME, BOT_IMG, "left","Evaluasi Efisiensi dan Efektivitas : <a href='http://s.ub.ac.id/evalfilkombot1' target='_blank'>Form Evaluasi Bot 1</a> <br> Evaluasi Satisfaction : <a href='http://s.ub.ac.id/evalfilkombot2' target='_blank'>Form Evaluasi Bot 2</a>");
         }
       });
 

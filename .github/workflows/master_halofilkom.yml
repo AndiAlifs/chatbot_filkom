@@ -8,7 +8,7 @@ name: Build and deploy Python app to Azure Web App - halofilkom
 #   push:
 #     branches:
 #       - master
-#   workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
   build:

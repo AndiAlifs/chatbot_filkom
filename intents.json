@@ -98,7 +98,10 @@
                 "tata cara bayar ukt",
                 "tagihan ukt",
                 "cara bayar ukt",
-                "mekanisme bayar"
+                "mekanisme bayar",
+                "melunasi tagihan",
+                "melunasi ukt",
+                "membayar ukt"
             ],
             "responses": [
                 "Untuk melakukan pembayaran UKT, SPP, IPI dapat dilihat pada laman <a href='https://selma.ub.ac.id/tata-cara-pembayaran' target='_blank'>Klik disini</a>"

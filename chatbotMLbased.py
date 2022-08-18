@@ -99,7 +99,7 @@ def pred_class(text, vocab=words, labels=classes):
     result = model.predict(np.array([bow]))[0]
 
     # melakukan iterasi dari seluruh kemungkinan kelas dan melelminasi probability kelas dibawah threshold
-    thresh = 0.4
+    thresh = 0.50
     y_pred = [[idx, res] for idx, res in enumerate(result) if res > thresh]
 
     y_pred.sort(key=lambda x: x[1], reverse=True)

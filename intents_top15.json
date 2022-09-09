@@ -1,0 +1,510 @@
+{
+    "intents": [
+        {
+            "tag": "pengajuan_bantuan",
+            "patterns": [
+                "semester mengajukan bantuan ukt perubahan kelompok ukt kategori kategori balasan email pengajuan bantuan ukt disetujui kategori ukt berubah siam turun status ringan tagihan ukt semester berubah kelompok kategori kategori karna email semester pengajuan bantuan ukt perubahan kelompok disetujui turun kategori semester lampiran pendukung sertakan",
+                "perkenalkan syahra rizkia andina program studi sistem informasi izin pengajuan bantuan ukt ajukan disetujui",
+                "informasi jadwal pengajuan bantuan keuangan mengetahuinya rektorat dan fakultas kebijakan pengurangan uang kuliah tunggal anak saya atau beasiswa abadi brawijaya bantuannya ucapkan  hormat parlindungan nainggolan",
+                "terkait keringanan ukt diinformasikan dimana maksudnya tau diterima ditolak nya pengajuan bantuan ukt informasinya",
+                "pengajuan bantuan keuangan kategori pengurangan ukt tagihan ukt siam perubahan",
+                "izin alur pengajuan bantuan ukt senilai juta kemendikbud",
+                "batas pembayaran ukt agustus pengajuan bantuan kemendikbud tgl deadline pembayaran ukt perpanjang bantuan keuangan kemendikbud yg lebih semester mengajukan",
+                "memohon pengangsuran ukt semester berpikir wali sanggup pembayaran bantuan memohon bantuan pengajuan bantuan ukt telat tgl juli memohon pengangsuran ukt semester mengusahakan pembayaran angsuran",
+                "menghubungi kontak beliau saya mengajukan perpanjangan studi status siam aktif mengajukan perpanjangan menunggu hasil pengajuan bantuan ukt kemendikbud ristek",
+                "izin pengajuan bantuan ukt diberitahukan dimana pengajuan",
+                "kenaikan ukt pengajuan bantuan ukt kemendikbud keberatan melunasinya bantuannya",
+                "sbg informasi pengumuman kelulusan hasil seleksi mandiri alih jenjang tertanggal agustus informasi terima peserta seleksi berasal vokasi potongan biaya pendidikan kategori ipi diajukan diterima sbg tgl pengajuan bantuan keuangan juli tsb tes seleksi masuk tgl tsb tgl agustus pengumuman hasil seleksi tgl agustus",
+                "hanifah rahmajati nim teknologi informasi perihal pembayaran cicilan ukt kemarin pengajuan bantuan mengajukan penurunan golongan ukt diterima cicilan ukt jadwal pembayaran membayar cicilan jumat besok akun pembayaran diaktifkan membayarnya",
+                "terimakasih jawabannya terkait pengajuan bantuan ukt ajukan website keuangan lupa lamannya",
+                "siang izin kali semester mengajukan bantuan kemdikbud siam cek tulisannya data pengajuan ditemukan padahal melengkapi data data perlukan pengajuan bantuan kemdikbud butuh bantuan kemdikbud",
+                "terkait surat pernyataan permintaan bantuan penurunan golongan ukt wajib disertakan pengajuan bantuan laman sibaku didownload",
+                "proses pengajuan bantuan keuangan error form data inputan kolom fakultas tombol form bantuannya mengakses bantuan keuangan",
+                "akumulasi angsuran semester angsuran semester genap dibayarkan tanggal januari februari artinya angsuran diselesaikan pengajuan bantuan keuangan semester genap diproses bingung maksud pengajuan angsuran semester genap dibayarkan sesuai jadwal tanggal februari jadwal seminar hasil angsuran semester bayarkan februari semester studi selesai semester angsuran semester genap dibayarkan penuh kebijakan arahanya",
+                "dwinta herliana nim mengajukan angsuran ukt pengajuan bantuan pengurangan ukt angsuran membayar angsuran lampirkan screenshot tagihan semester genap siam berharap mengabulkan permohonan angsuran pendapatan orang tua berdampak pandemi covid bantuan ucapkan",
+                "izin pengajuan bantuan keuangan nama fanny nugrahani ditolak perubahan siam",
+                "muhammad hasbi ashshiddiqi sistem informasi tahap pengajuan yudisium apps kemarin pengajuan bantuan keuangan batas januari surat dibawah pemberitahuan potongan ukt yudisium potong ukt kegiatan yudisium sesuai tanggal penyelesaiannya kegiatan yudisium isi surat berlaku pengajuan bantuan keuangan kemarin tgl januari surat berlaku pengajuan bantuan keuangan kemarin pengajuan bantuan keuangan informasi terkait",
+                "izin terkait data pengajuan bantuan keuangan nama noor leona asiyah nim jurusan sistem informasi data ajukan masuk diterima berdasarkan hasil keputusan siam tertera keterangan data memenuhi data sebenar benarnya",
+                "pengajuan bantuan keuangan seingat saya dulu mengajukan pembebasan mencapai tahap selesai sidang skripsi pendaftaran yudisium siam tertulis pengajuan perubahan kelompok ukt",
+                "admin perkenalkan steven felix octo pasaribu program studi teknologi informasi angkatan mengajukan mengajukan bantuan pengurangan ukt sibaku mengecek statusnya bantuan ditolak data sesuai berkenan data sesuai mengajukan ulang membutuhkan pengurangan ukt ayah pensiun lampirkan link drive terkait file pengajuan bantuan ukt https  merepotkan semoga sehat",
+                "perkenalkan amalia miftahul jannah nim mahasiswa sap jurusan teknik informatika sesuai info pengumuman pengajuan bantuan ukt diumumkan via siam januari kemarin akun siam nominalnya berubah pengajuan ditolak jawabannya",
+                "permisi muhammad bustan harvi baihaqi teknologi informasi nim membayar ukt penuh ditentukan kendala keuangan rumah mengajukan tiket diarahkan web sibaku mengajukan tiket coba mengurus keringanan ukt sibaku masuk pengajuan bantuan ukt mengurus sibaku mengajukan bantuan keringanan ukt pembayaran ukt diangsur diproses sekian",
+                "lampirkan surat pengajuan bantuan keuangan bantuannya",
+                "semoga keberkahan izin pengajuan bantuan penurunan ukt kirimkan harapan golongan ukt berubah kasih bantuannya",
+                "lampirkan surat pengajuan bantuan keuangan memenuhi persyaratan mengikuti uas",
+                "alur pengajuan bantuan",
+                "pengajuan bantuan keuangan prosedurnya diajukannya kemana",
+                "selamat malam izin pengajuan bantuan keuangan langkah finalisasi lakukan menunggu dipersiapkan verifikasi bem fakultas dll website sibaku gambar jadwal",
+                "albert wirawan pti pengajuan bantuan keringanan ukt dibuka",
+                "perkenalkan nama triyo anggoro pendidikan teknologi informasi nim izin bantuan keuangan biaya ukt kemarin mengisi persyaratan pengajuan bantuan keuangan biaya ukt validasi diakses wassalamualaikum"
+            ],
+            "responses": [
+                "Pengajuan Bantuan Keuangan dapat mengisi form pada sibaku.ub.ac.id"
+            ]
+        },
+        {
+            "tag": "pencairan_saldo_ukt",
+            "patterns": [
+                "surat permohonan pencairan saldo rektor",
+                "terkait sisa saldo munculnya tagihan disiram pendaftaran yudisium kebijakan pembebasan ukt smt dimana sisa saldo smt siam tagihan disiram smt tagihan langsung terbayar sisa saldo smt kemarin kemarin mengajukan pencairan saldo sisa saldo smt tagihan muncul smt sisa saldo tagihan ukt smt terkait",
+                "surat permohonan pencairan saldo formatnya yaa",
+                "penerimaan beasiswa semester genap dihubungi kemana ya nomor kemahasiswaan dihubungi contoh format surat permohonan nya format surat permohonan pencairan saldo beasiswa",
+                "tau pencairan saldo membutuhkan terkait pendaftaran yudisium memiliki sisa saldo akademik solusi menyelesaikan tahap pendaftaran yudisium mengikuti yudisium periode bantuan pengertiannya",
+                "perkenalkan nama vigo hernando sistem informasi permisi ijin pengajuan yudisium siam mengakses aplikasi mendaftar yudisium mengurus keuangan keuangan proses pencairan saldo siam lakukan",
+                "disarankan akademik menghubungi keuangan menu yudisium wisuda keterangan layanan harap menghubungi keuangan fakultas permasalahan keuangan mengakses menu yudisium wisuda kelebihan saldo ukt siam memiliki kelebihan saldo siam prosedur pencairan saldo siam sudah mengisi data google form https tanggal januari pengajuan pencairan saldo mengisi data google form solusi kasih",
+                "padi tempat ijin minggu kemarin psik terdaftar untuk yudisium periode pencairan saldo informasi mempengaruhi upload dokumen fitur aplikasi harap informasi",
+                "mengajukan permohonan pencairan saldo tupusatub kemarin status siam berubah drop out terdaftar sisa saldo hilang muncul tagihan siam mengakses menu yudisium siam melengkapi data solusi permasalahan",
+                "update terkait pencairan saldo ukt",
+                "pagi sebentar terkait pencairan saldo siam cairkan rektorat follow rektorat halo selma balasan apapun rektorat terhitung dibukanya siam sisa saldo tolong dibantu follow rektorat perihal saldo teman memiliki kendala cairkan minggu yang mengajukan permohonan pencairan saldo bantuannya",
+                "proses pengajuan pencairan saldo clear kemarin cek mutasi masuk tanggal bantuannya",
+                "pencairan saldo dikembalikan rekening fikir dikembalikan rekening kandung rekening memeriksa rekening  merepotkan pekerjaan",
+                "penduduk asli malang  pencairan saldo terima keluh kesah",
+                "permohonan pencairan saldo kirim email bersamaan dokumen persyaratannya",
+                "mengajukan permohonan pencairan saldo ukt email pusat ub kamis juli tagihan siam pada jumat juli arahannya"
+            ],
+            "responses": [
+                "Silahkan mengajukan permohonan pencairan saldo dengan cara membuat surat permohonan (format bebas,rapi dan sopan) dilampiri foto/scan bukti bayar UKT semester bersangkutan serta halaman depan buku rekening. Berkas permohonan\u00a0 dikirim ke email mailto:tupusatub@gmail.comtupusatub@gmail.com"
+            ]
+        },
+        {
+            "tag": "cek_siam_untuk_tagihan",
+            "patterns": [],
+            "responses": [
+                "Update Tagihan pada SIAM sdra, apabila Besaran Nominal sudah sesuai Pengajuan sdra silahkan segera melakukan Pembayaran"
+            ]
+        },
+        {
+            "tag": "kriteria_50",
+            "patterns": [
+                "maksud tanda tangan dosen pengampu pojok kanan file krs siam",
+                "keringanan dibantu kriteria bantuan tingkat semester sembilan menempuh sekurang kurangnya sks mengambil mata kuliah enam sks aktifkan angsuran semester ganjil genap silahkan lakukan pembayaran batas pembayaran tanggal juli"
+            ],
+            "responses": [
+                "Kriteria yang mendapat bantuan 50% adalah bagi Mahasiswa S1 dan D4 tingkat akhir yang berada pada Semester 9 (Sembilan) dan Seterusnya yang sudah menempuh sekurang - kurangnya 138 SKS serta mengambil mata kuliah kurang dari atau sama dengan 6 (enam) SKS. Berikut merupakan Ketentuan kriteria yang menjadi kesatuan (dimana Semester 9, minimal 138 sks, dan program Skripsi), bukan hanya salah satu kriteria yang dapat dipenuhi untuk mendapat Bantuan tsb."
+            ]
+        },
+        {
+            "tag": "registrasi_mahasiswa_lama",
+            "patterns": [
+                "pagi sejahtera perkenalkan muhammad aji taufan jurusantif angkatan permasalahan registrasi semester keatas lalu terdapat surat rektor semester keatas keringanan pembayaran registrasi yaitu pemotongan ukt mengambil permasalahan registrasi siam debitnya kategori ukt keringanan potongan lakukan pembayaran ukt memilih krs sks matakuliah tugas gambar lampirkan beserta tiket kirimkan tindak"
+            ],
+            "responses": [
+                "Berikut kami informasikan Registrasi Mahasiswa Lama dapat dilihat https://ub.ac.id/id/pengumuman-registrasi-mahasiswa-lama-universitas-awijaya-semester-ganjil-2021-2022-program-diploma-sarjana-dan-pascasarjana/disini "
+            ]
+        },
+        {
+            "tag": "jadwal_bantuan",
+            "patterns": [],
+            "responses": [
+                "Jadwal Bantuan Keuangan Mahasiswa Lama dapat diakses https://bantuankeuangan.ub.ac.id/disini"
+            ]
+        },
+        {
+            "tag": "tata_cara_pembayaran",
+            "patterns": [
+                "tertera bantuan keuangan web angkatan tata mengajukan pengangsuran ukt semester ganjil",
+                "terkait pemenuhan form poin nmr penyerahan makalah skripsi pandemi tata",
+                "perkenalkan nama muh dimas adiyatma fakultas ilmu komputer program studi teknologi informasi mengangsur link website tata pengangsuran",
+                "apakah tata pembayarannya tata pembayaran",
+                "untuk pembayaran ukt lihat tata cara pembayaran bank nomor tagihan nomor tagihan nim nomor tagihan nim",
+                "tata keterlambatan pembayaran ukt pembayarannya juga menanyakan pembayaran ukt semester tagihan ukt pemotongan",
+                "andhika naufal vokasi jurusan bisnis digital amp perihal pembayaran uang gedung ekstensi sistem informasi prosedur tata pengajuannya informasi mendadak mepet melunasi langsung kondisi keuangan susah pandemi",
+                "permisi perkenalkan alfeda ivan salah diterima sap ijin perihal tata proses pengangsuran biaya sap alasan pengangsuran menyediakan uang mepet",
+                "andhika naufal vokasi jurusan bisnis digital amp perihal pembayaran uang gedung ekstensi sistem informasi prosedur tata pengajuannya informasi mendadak mepet melunasi langsung kondisi keuangan susah pandemi angsuran direncanakan ukt ipi ditotal dilanjutkan sisanya angsuran iii",
+                "mengajukan surat aktif tunjangan pensiunan pengurusannya tata pengurusannya",
+                "izin membayar angsuran ukt jalur mandiri tata pembayaran pembayaran",
+                "nomor rekening tata pembayarannya muncul siam tgl",
+                "unenroll nya enroll sesuai tata memasukan kode key sesuai link lms dosen pengajar sesuai cek jurusan matkul kelas",
+                "nomor tagihan tata pembayaran angsuran dimana",
+                "tata pembayarannya nomor tagihannya kak melihat nomor tagihannya ya nomor ujian masuk kemarin",
+                "kak pembayaran ukt angsuran duanya besok kak terkait nomor tagihannya dilihat kak tata pembayarannya kak",
+                "tata pelunasan angsuran ipi",
+                "izin membayar angsuran ukt november nominal tata pembayarannya coba",
+                "coba bayar ipi bsi sesuai petunjuk tata pembayaran coba mbanking atm teller",
+                "tata pendaftaran mengisi google form status google spreadsheet wisuda berubah daftar wisuda lakukan pendaftaran wisuda level universitas selanjutnya",
+                "tata pembayaran nya bagaimana",
+                "memohon surat keterangan kuliah tata form diisi bantuannya",
+                "tata membuka pembayaran angsuran ukt membayar juta membayarnya besok bantuannya",
+                "izin tata pembayaran sisa tagihan ukt beda rekening atau membayar ukt semester",
+                "perkenalkan dzaki sistem informasi surat keterangan kuliah tata caranggih",
+                "izin konversi program kmmi tata",
+                "ass  pengumuman hasil diterima tidaknya pengangsuran ukt tampilan status siam terima diterima tata pembayaran pengangsuran ukt wsb",
+                "permisi tata pembayaran angsuran ipi iuran pengembangan institusi",
+                "jadwal krs sap tata mengikuti krs",
+                "membayar ukt bank bri pesan error format rekening tujuan salah mengisi nomor pembayaran nim mengikuti langkah langkah sesuai tata pembayaran website selma menghubungi call center bri pihak universitasnya",
+                "mengikuti tata selma mencoba melakukan pembayaran ukt atm bri dari tanggal dan hari transaksi tertulis nama tagihan ukt nya senilai juta memiliki saldo senilai transaksi gagal mencoba besok lakukan",
+                "berkaitan pengisian krs tata",
+                "berkaitan pengisian krs tata krs ditutup tanggal terlambat",
+                "yudisium tata yudisium liat web belom info yudisium tata yudisium",
+                "nama carel martin nim  pembayaran ukt melalui teller bni tata pembayaran butuh tagihan nim tagihan khusus",
+                "informasinya tata pembayaran",
+                "berencana mengambil mata kuliah aplikasi aljabar linear elementer matematika fmipa mengambil mata kuliah peserta mbkm diharuskan mengunggah surat dosen penasehat akademik kaprodi kampus manakah saya memohon surat mengikuti mata kuliah tata",
+                "coba pakai bca bsi sesuai tata nama tidak terdaftar nomor vanya kemarin",
+                "tata transfer pindah kampus kota faktor menempuh semester mengikut sbmptn tata",
+                "batal tata ttd dosen",
+                "terkait tata proses batal informasi batal minggu ketiga perkuliahan cek batal krs beriku lampirkan screenshot",
+                "dariswan januari peserta wisuda periode tata pengambilan ijazah transkrip nilai dokumen mengambil langsung",
+                "izin tata legalisir ktms lihat form legalisir ijazah skl transkrip akreditas",
+                "assalamualaikum  ijin upload siam unggahan siam tinggal menunggu validasi sertifikasi link jurnal salah unggahan validasi kecuali tata pendaftaran wisuda  salah wassalamualaikum",
+                "terkait pendaftaran wisuda mendaftar untuk wisuda pesan lulusan wajib pin paham terkait akademik yudisium respon bantuannya paham tata alur pendaftaran wisuda mono bantuannya",
+                "pembayaran tata mengajukan pembukaan sistem pembayaran",
+                "perkenalkan nama muhammad ilman asnada teknik informatika izin mengurus transkrip nilai transkrip nilai tanda tangani tata mengurusnya sekian berkenan",
+                "permisi izin terkait pembayaran cicilan ukt dibayar prosedur ditulis website selma tata pembayaran virtual account",
+                "permisi tata pembayaran angsuran ipi setor bank pembayaran rekening dituju pembayaran",
+                "dear diinfokan tata pembayaran uang pendaftaran laman",
+                "tata pembayaran semester menemukan instruksinya apps",
+                "assalamualaikum perihal tata pembayaran semester apps simpan pendaftaran cetak kwitansi membutuhkan tanda tangan akademik keuangan dikirim online nya langsung",
+                "selamat malam membayar semester web tata pembayaran semester tertulis pembayaran teller bank atm non tunai internet banking menyertakan berita keterangan sks m banking mandiri virtual account tidak menulis berita keterangan dilanjut membayar berita keterangan",
+                "perkenalkan nama moch faiz irfanudin nim sistem informasi berkaitan pendaftaran semester khusus berencana mendaftar pendataan izin mengajukan syarat pendaftaran pendataan diwajibkan surat pernyataan disetujui ketua pelaksana ketua pelaksana kegiatan semester menghubungi beliau tanda tangan sanksi buku dibayar pendataan tata pembayaran sanksi buku dimana nominalnya  perhatiannya",
+                "tata memohon penurunan keringanan ukt disiapkan proses permohonan",
+                "selamat malam rayhan ardiya yogastama nim pembatalan semester mata kuliah grafika komputer tata pembatalan semester lakukan sekian",
+                "priyo prasetyo teknik komputer angkatan terkait tata penghapusan mata kuliah tahapannya kontak akademik teknik komputer hubungi",
+                "pendaftaran pkl yang semester ganjil tata pendaftarannya link pendaftaran langsung bertemu dosen dijadikan dosen pembimbing pkl mendaftar pkl instansi pengajuan proposal pengajuan instansi bersangkutan pengajuan dosen pembimbing",
+                "kemarin kakak mewakilkan pengambilan ijazah legalisir online tata",
+                "pendaftaran seminar hasil ujian skripsi persyaratan bebas tanggungan sumbangan penyelenggaraan pendidikan fotokopi bukti pembayaran semester siam info tagihan pembayaran atm bri kode respon atm bri berbeda kode isikan menu pembayaran pendidikan mengikuti panduan tata pembayaran ukt",
+                "tata keringanan ukt semester langsung kepotong pembayaran ukt",
+                "muhammad guntur al farakh angkatan tata pengurusan surat keterangan kuliah sekian",
+                "permisi pengurangan ukt saudara kandung berkuliah tata luring",
+                "mengajukan permohonan bantuan keuangan sibaku akun kemahasiswaan memiliki akses ke dalam sistem persyaratan tata mengajukan bantuan keuangan semester",
+                "mengajukan ukt semester semester tata pengajuannya"
+            ],
+            "responses": [
+                "Untuk melakukan pembayaran UKT, SPP, IPI dapat dilihat pada laman https://selma.ub.ac.id/tata-cara-pembayaran/https://selma.ub.ac.id/tata-cara-pembayaran/"
+            ]
+        },
+        {
+            "tag": "banding_ukt_mahasiswa",
+            "patterns": [
+                "izin akademik menyarankan pengembalian dana lintas pengembalian dana masuk rekening dikirim  berkenan",
+                "refri ridwan daharmi teknik informatika nim proses penyelesaian skripsi penundaan angsuran ukt keluarga membantu pembayaran ukt terdampak pandemi memiliki orang kakak membantu biaya pendidikan semenjak ayah meninggal dunia semester kakak berdagang tanah abang pandemi berusaha mencari peluang berdagang sembako penghasilan didapatkan kakak perempuan kakak ipar hotel jakarta beliau terdampak pandemi pengurangan gaji kakak perempuan berusaha membuka peluang usaha berdagang jajanan pasar kue lupis penghasilannya mencukupi kebutuhan harian pandemi membantu keluarga berkeliling mengantarkan lopis pesanan berkomitmen menyelesaikan skripsi malang aktif mencari pekerjaan sampingan developer freelance penghasilan membayar ukt bantuannya keuangan mengharapkan keringanan membayar ukt pekerjaan penghasilan pelunasan",
+                "nominal tagihan biaya siam berubah mengajukan keringanan biaya semester pengajuan disetujui iya penuhi kembali untuk disetujuinya pengajuan",
+                "submit jurnal jtiik tanggal juli balasan review informasi lanjutan jurnal menunggu terimakasih",
+                "selamat malam bantuan keuangan mengisi form https bukti data fakta jadwal berlaku mengajukan bantuan penurunan ukt sesuai syarat ketentuan tertulis yaitu orang tua kandung terkena phk check siam ukt penurunan bantuan penurunan ukt sesuai ketentuan syarat pengajuan penurunan ukt berbicara advokasi bem bem menindaklanjuti langsung halofil com bantuannya penurunan ukt membutuhkan bantuan penurunan ukt sesuai ketentuan bantuan penurunan ukt ketua keluarga terkena phk rumah tangga dengan penghasilan menentu tangggungan adik duduk dibangku sma sekolah tanggungan sekolah mengambil skripsi tingkat semester progress skripsi sidang semester kedepan semester lampirkan orang tua kandung terkena phk kabarnya bantuan keuangan penurunan kasih perhatian bantuannya",
+                "andi nila nurul mutmainnah pti nim follow tiket berisi izin akademik menyarankan pengembalian dana lintas mengisi form pengembalian dana sanamun pengembalian dana terima dikirim tiket ditutup admin menerima balasan permasalahan menerima dana pengembalian semester kelanjutannya",
+                "banjarbaru agustus perihal permohonan pengurangan ukt yth agus wahyu widodo wakil dekan bidang administrasi keuangan fakultas ilmu komputer brawijaya malang hormat bertanda tangan dibawah nama anggara priambodo johansyah nim program studi teknik informatika besarnya total tagihan semester surat mengajukan permohonan pengurangan kondisi memaksa usaha warung mengalami penurunan pendapatan drastis kondisi serabutan kedai kopi membantu kebutuhan hidup keluarga ayah karenakan perusahaan ayah bangkrut memiliki adik berkuliah biaya kuliah menanggung berhutang orang kondisi akademik menyisakan sidang skripsi ulang di semester dinyatakan lulus pembayaran ukt semester melampaui batas pembayaran fokus merawat ayah rumah terkena kondisinya sekeluarga terkena virus tanggal juli agustus dinyatakan negative kondisi kritis rumah menolong rumah sakit daerah penuh sekeluarga terkena covid total berdekatan sekeluarga terkena kali covid ayah tahap pemulihan nyatakan negatif berjualan kondisi memohon melewatkan pembayaran ukt semester lubuk hati mengharapkan kemurahan hati bantuan pembayaran ukt semester permohonan surat sesuai kondisi perhatiannya ucapkan hormat pemohon anggara priambodo johansyah",
+                "izin terkait pelaksanaan pkl kjfd semester genap kemarin melaksanakan pkl djf dosen pembimbing pkl yaitu ibu ari kusyanti januari maret dan kami perpanjangan pkl djf perpanjangan terlewat perpanjangan diajukan akademik terkait perpanjangan pkl terlewat akademik merespon konsekuensinya nilai berkurang adhit kps beliau diserahkan ari bertanggung pembimbing pkl kjfd alhamdulillah mengkonfirmasi jurusan diserahkan dosen pembimbing pkl kjfd terkait pelaksanaan pklnya alhamdulillah dosen pembimbing pkl kjfd berkenan bersedia membimbing penyusunan laporan kebingungan diperkenankan perpanjangan pkl bagaimana mestinya dilakukan dikarenakan kami perpanjangan pkl pengerjaannya terlewat kendala dosen pembimbing kjfd mengarahkan mengkonfirmasi kembali ke akademik terkait tujuan untuk mematuhi prosedur pelaksanaan pkl djf arahan saran masukan terkait pelaksanaan pkl kjfd yang terlewat  perhatiannya warahmatullahi wabarakatuh",
+                "mengupload jurnal jptk tgl agustus statusnya submission konfirmasi jottik",
+                "terkait publikasi jurnal mengajukan journal submission agustus informasi apapun terkait solusinya",
+                "terdaftar yudisium tanggal juli ini belum menerima skl jurnal review jptiik mendaftar wisuda lihat antrian wisuda nama tercantum di antrian mengisi google form pendaftaran wisuda menunggu skl terbit takutnya terdaftar wisuda luring otomatis dan menunggu jadwal wisuda",
+                "kemarin memasukkan mata kuliah etika profesi proses krs kelas kelas direncanakan penuh kelas kelas tersisa bentrok mata kuliah mengisi google form akademik permasalahan krs form mengisikan matkul bermasalah administrasi basis data etika profesi administrasi basis data anak membatalkan mata kuliah etika profesi mendapatkannya mata kuliah etika profesi proses menghubungi akademik rabu minggu perubahan siam menunggu perubahan akademik dimasukkan kelas etika profesi batal mata kuliah bantuannya",
+                "akademik fakultas ilmu komputer universitas yudha eka nugraha informatika angkatan permasalahan kesulitan persetujuan tanda tangan dosen pembimbing akademik menghubungi beliau senin kemarin tanggapan beliau permasalahan dikarenakan batas pengumpulan form mata kuliah akademik perhatiannya",
+                "batal kemarin sesuai prosedur mengisi google form mengupload form batal tanda tangan dosen pembimbing akademik perubahan krs siam bantuannya",
+                "batal mata kuliah ajukan pagi proses mengecek spreadsheet progres kendala semacamnya",
+                "nama hendi maryanto nim teknik informatika angkatan proses batal sesuai prosedur kemarin mata kuliah skripsi diambil masih masuk siam",
+                "terisi siam bantuannya",
+                "terkait draf surat keterangan lulus skl dijadwalkan mengikuti yudisium sabtu september pesan terkait draf skl konfirmasi kebenaran data teman memiliki jadwal yudisium pesan terkait draf skl pesan terkait publikasi jurnal mengajukan journal submission agustus informasi apapun terkait solusinya",
+                "pendaftaran sertifikasi kompetensi maret jadwal ujiannya",
+                "akademik perkenalkan naufal habibie dwihar informatika proses batal mbkm matkul diluar maksud matkul mbkm di luar krs menempuh mata kuliah disebabkan pada jadwal krs reguler kemarin kelas matkul penuh pengumuman terkait batal https tertulis batal matkul merdeka belajar september september melalui form batal september form menyediakan opsi matkul merdeka belajar tersedia matkul reguler milik informasi terkait kesempatan kali salah berkenan",
+                "pagi ramadhan budi putera info kontak bapak drs achmad ridok pembimbing pkl beliau membalas email memiliki kontak whatsapp atau telpon",
+                "annisa widuri teknik informatika jurnal kerjakan perubahan penerbitan jurnal jurnal proses review mendaftar wisuda",
+                "cindy inka tgl agustus mengajukan berkas pengurusan surat keterangan pengganti ijazah tgl september kabar surat keterangan selesai surat keterangan pengganti selesai terimakasih",
+                "ifadhotur rohmah sistem informasi terkait validasi data kelengkapan wisuda siam mengkonfirmasikan kemahasiswaan pada tanggal september mengupload data kelengkapan siam point mengisi google form data kelengkapan wisuda poin kemahasiswaan merespon harap ditunggu validasi data kelengkapan wisuda siam tervalidasi perhatian ucapkan",
+                "selamat malam perkenalkan nama ahmad wildan jauhari sap tif izin perihal balasan form perpanjangan pkl tanggal agustus kemarin kelompok kami mengajukan perpanjangan pkl form kirimkan balasan terkait form nya solusinya mengirim ulang saran bimbingannya",
+                "nama indira putri hendini nim sistem informasi keperluan terkait permohonan dispensasi unggah proposal skripsi apps submit formulir tanggal september tindaklanjutnya dihubungi email mengecek apps berkala tombol ajukan proposal skripsi diakses bantuannya",
+                "perkenalkan rafli maulana aji teknik informatika bantuan kuota internet mendikbud update data sim sesuai instruksi himpunan informatika bantuan",
+                "yt keuangan  nama dwi anggraeni kepanitiaan program kerja genesis kbmti izin mengkonfirmasi mengenai pengajuan laporan pertanggung dana kegiatan ospek pendidikan teknologi informasi itoso introduction our study program itoso genesis revisi kabar keuangan  bantuannya hormat",
+                "andika putra sadewa mhs informatika tergabung grup wisuda periode perihal konfirmasi wisuda berubah jadwal tgl oktober kemarin luput konfirmasi tanggal mengonfirmasikan perihal kehadiran solusinya",
+                "izin status validasi link publikasi jurnal siam link publikasi jurnal upload dan statusnya berubah kesalahan bantuannya",
+                "ardita hardi sap teknologi informasi izin jenjang teknik informatika politeknik negeri batam penyetaraan sks darikampus sks ambil alih program teknologi informasi brawijaya penyetaraan sks informasi dengar semester mata kuliahnya paket semester pencerahannya",
+                "izin siam diinputkan susulan tagihan ukt",
+                "melaksanakan yudisium tanggal juli daftar wisuda ukt siam ditagih status terdaftar mengakses yudisium amp wisuda ketentuan bebas ukt yudisium lampirkan skl screenshot akun siam",
+                "krs keterangannya disetujui nama presensi uas solusinya lakukan",
+                "perkenalkan muhammad zakaria ansori nim sap jurusan sistem informasi mengganggu nya izin terkait total tagihan bank siam penerima beasiswa bazis semester dibuktikan lampiran bukti penerimaan beasiswa bazis total tagihan bank dihapus pendaftaran semhas skripsi dimana membutuhkan bukti bebas tanggungan biaya terkait pengurusan bukti bebas tanggungan biaya pendaftaran semhas skripsi pengurusannya keuangan akademik keuangan dimanakah informasi bukti bebas tanggungan biaya informasinya",
+                "nama shahnaz maulidini arisa nim teknik informatika keperluan  izin persyaratan pendaftaran semhas sidang skripsi syarat membayar ukt semester minimal membayar ukt tahap penundaan sesuai arahan rektorat menunggu pencairan potongan ukt kemendikbud kegiatan kampus mengajar ikuti bukti ukt arahannya",
+                "izin mengkonfirmasi terkait lembar penilaian dan revisi laporan pkl kelompok beranggotakan hilman hamdani iman harie nawanto lembar revisi laporan penilaian seminar hasil pkl diproses seminar hasil pkl jumat november dosen penguji tri astoto kurniawan jumat desember beliau mengkonfirmasi lembar penilaian lembar revisi laporan pkl kami telah beliau submit akademik inikami menerima email terkait kesalahan",
+                "sejahtera reynaldo deswara teknik informatika mengajukan surat permohonan bantuan ukt ketidakmampuan membayar ukt gol semester penuh orang tua ayah penanggung biaya pendidikan meninggal dunia kemarin dan kepala keluarga rumah tangga keluarga keluarga pra sejahtera harapan surat permohonan dikabulkan",
+                "perkenalkan muhammad zakaria ansori nim sap jurusan sistem informasi mengganggu nya izin mengkonfirmasi pengajuan yudisium upload data apps data statusnya diverifikasi pendaftaran yudisium pendaftaran yudisium periode bantuannya",
+                "rifky yunus ijazah wisudah periode wisudah periode kejelasannya ijazah",
+                "tagihan turun bayar tagihan",
+                "perkenalkan kevin haidar nim teknik informatika tanggal januari yudisium terdaftar yudisium periode informasi jadwal link yudisium daring informasinya",
+                "menunggu seminggu terkait permasalahan sisa saldo siam mengakibatkan daftar yudisium senin januari keuangan memerintahkan mengirim syarat tupusatub lakukan seminggu perkembangan pusat menunggu respon pusat",
+                "pagi surat permohonan terkait sisa saldo siam email pusat kelanjutannya pengertian bantuannya mendaftar yudisium mendaftar periode dipersulit anak membebani orang tua membayar ukt terlambat mendaftar yudisium periode pengertian bantuan solusi perkataan mahasiswi menyelesaikan kuliahnya dipersulit kelanjutan tolong kasihani",
+                "izin terkait dokumen kelengkapan pengajuan yudisium besok batas pendaftaran dokumen terkait bukti unggah diverifikasi arahannya",
+                "mohammad ali syaugi nim teknik komputer fakultas ilmu komputer dibantu angsuran biaya iuran pengembangan institusi ipi akademik diselesaikan kondisi orang tua memiliki pendapatan membayar biaya ipi semester sisanya dibayarkan permohonan bantuan ucapkan",
+                "izin konversi hasil program kmmi diberitahukan dikumpulkan form tersedia",
+                "perkenalkan angga sukma bahari nim teknik mengisi pendataan yudisium di siam lamanya layanan harap menghubungi keuangan fakultas permasalahan keuangan mengajukan bantuan keuangan pembebasan ukt status nya disetujui laman registrasi tagihan solusi terkait ucapkan",
+                "perkenalkan angga sukma bahari nim teknik komputer izin mengisi pendataan yudisium siam lamannya layanan harap menghubungi keuangan fakultas permasalahan keuangan mengajukan bantuan keuangan pembebasan ukt status nya disetujui laman registrasi tagihan solusi terkait ucapkan",
+                "selamat malam izin pengumuman bantuan keuangan ukt web sabaku masih belum akses refresh masih belum di web tertera tgl januari wib masih belum diakses bukti ambil sekian bantuan nya",
+                "imam pratama sap izin semester pembayaran ukt sap dikenakan biaya normal semester ukt bantuan pemotongan pemotongan berlaku semester tagihan siam mengalami pemotongan",
+                "assalamu alaikum sap perihal nominal ukt inimasih turun tagihan bank biaya ukt",
+                "permisi perihal nilai siam mata kuliah pengantar keilmuan komputer menghubungi dosen pengampu mata kuliah bantuannya",
+                "permisi mendaftar yudisium status apps saya adalah penjadwalan yudisium dinyatakan lulus tanggal desember mengurus pendaftaran yudisium mendaftar semester berganti semester berganti jadwal yudisium memprogram krs skripsi",
+                "permisi mendaftar yudisium status apps penjadwalan yudisium dinyatakan lulus tanggal desember mengurus pendaftaran yudisium mendaftar semester berganti semester berganti jadwal yudisium memprogram krs skripsi",
+                "warahmatullahi wabarakatuh  elna diaz pradini nim teknik informatika izin terkait upload dokumen yudisium wisuda siam tanggal pesan upload dokumen pendukung siam siam menu upload berkas yudisium wisuda sekian pesan bantuan warahmatullahi wabarakatuh",
+                "pembayaran ukt bni tanggal januari saldo terpotong namun status siam tidak aktif petunjuk terima lampirkan bukti pembayaran",
+                "muchibbuddin abas informatika pin ijazah diproses mempercepat proses pin ijazah keperluan pengurusan daftar kerja",
+                "a izin pengajuan pendaftaran yudisium apps berkas bukti unggah jurnal diversifikasi sekiranya proses verifikasinya  salah ucapan",
+                "permisi status filkom apps penjadwalan yudisium diproses saya telah cetakan transkrip akademik whatsapp namun hingga melengkapi berkas siam menu yudisium amp wisuda pelaksanaan yudisium besok januari peserta yudisium besok",
+                "permisi  email akademik melengkapi data menu yudisium wisuda data ijazah menu diakses siam solusinya terdaftar yudisium",
+                "sore iwang laga sukma pti izin terkait pengajuan ulang pra proposal skripsi evaluasi skripsi progres penilaian sesuai arahan satrio agung wicaksono dosen pembimbing proses skripsi dikembalikan pra proposal diizinkan mengajukan minggu senin januari apps skripsi tombol ajukan pra proposal senin malam tombol ajukan ulang pra proposal menghilang gambar lampirkan satrio beliau mencoba mengkonfirmasi jadwal ajukan pra proposal jadwal ajukan proposal apps januari februari menemukan tombol ajukan pra proposal beliau mengarahkan situs penyaluran bantuan",
+                "poin siam muncul abstrak bahasa inggris ijazah upload berkas validasi memvalidasi point mengisi ulang form https ditunggu",
+                "menginformasikan belum melengkapi berkas menu yudisium amp wisuda siam status siam terdaftar peserta yudisium periode mengalami permasalahan kelengkapan berkas senin januari menemukan solusi nya kesalahan penyampaian",
+                "permisi izin dihubungi akademik tanggal januari mengisi kelengkapan data siam menunya diakses gambar terlampir ukt siam permasalahan",
+                "mengonfirmasi terkait kelanjutan pengajuan angsuran ukt januari kabar dimohon konfirmasinya",
+                "izin terkait proses publish jurnal jtiik tanggal januari sesuai ketentuan jtiik statusnya submission informasi teman upload dokumen tanggapan jptiik dikirimkan email tanggapan status jurnal kendala bantuannya",
+                "assalammualaikum selamat nama fatimah azzahra nim mendaftar yudisium minggu transkrip mengeceknya selesai perintah membuka siam mengupload berkas tombol belum diakses tagihan siam berubah tagihan ukt menunggu menunggu seminggu",
+                "ukt kemarin menyelesaikan pendaftaran yudisium ulang tagihan status aktif gambar terlampir hasil pengajuan pembebasan ukt disetujui tagihan ukt full siam dikembalikan terlanjur bayar takut melewati krs ukt terbayarkan dikembalikan mengirimkan keuangan kemarin respon",
+                "perkenalkan dwi yana wijaya teknik informatika izin status filkom apps gambar lampirkan terdaftar yudisium periode kemarin mengisi yudisium amp wisuda siam salah",
+                "krs mata kuliah kewarganegaraan total sks teman kelas total sks mata kuliah kewarganegaraan kelanjutannya",
+                "alif rafali program studi teknik informatika fakultas ilmu komputer brawijaya angkatan nim izin pengajuan cuti akademik sepengetahuan daring sesuai dengan prosedur halaman web pranala prosedur prosedur pengajuan cuti akademik yang berlaku mengajukan permohonan cuti akademik semester semester genap kamis tanggal februari pagi sesuai prosedur pengajuan cuti daring yang pranala tertanggal februari wib divalidasi fakultas rektorat pengajuan cuti sesuai prosedur pengajuan sesuai registrasi pengajuan cuti akademik prosedur pengajuan cuti akademik informasi mengenai status pengajuan cuti lakukan diproses diterima lampirkan halaman pengajuan informasi cuti akademik akun siam sekian  kekurangan pertanyaan informasi yang halaman pengajuan informasi cuti akademik siam",
+                "dyan krisyanto nim tanggal januari status siam berubah nomor tiket mendaftar yudisium apps muncul peringatan pastikan status siam aktif tanggal februari balasan diproses perubahan status akademi silahkan mengecek status siam berkala status siam berubah teman angkatan mengabaikan peringatan status siam aktif langsung mengklik tombol daftar yudisium apps dan status siam yg sudah berubah terdaftar status siam berubah menunggu perubahan siam mengklik tombol daftar yudisium dibantu upload dokumen dan semua verifikasi apps selesai tanggal januari link jurnal mengklik tombol daftar yudisium peringatan status siam aktif",
+                "sehubungan tanggal maksimal pengumpulan form batal krs memiliki kendala tandatangan dosen berusaha menghubungi dosen andi reza tandatangan form batal krs update harinya balasan upaya menghubungi fajar akademik menyarankan berkonsultasi kaprodi yusi teman mencoba menghubungi yusi kaprodi beliau mengupayakan menghubungi andi reza balasan adakah solusi bantuannya",
+                "sehubungan tanggal besok batas pengumpulan form batal krs memiliki kendala tanda tangan dosen berusaha menghubungi dosen saya untuk tanda tangan form batal krs update balasan beliau upaya mencoba menghubungi yusi kaprodi beliau mengupayakan menghubungi beliau balasan adakah solusi bantuannya terima kasih",
+                "terkait status yudisium mengajukan yudisium pada apps januari pendaftaran yudisium tanggal februari status penjadwalan yudisium diproses tambahan informasi link publikasi jurnal yudisium jadwalnya pesan konfirmasi whatsapp akademik siam sayah menginputkan terkait kelulusan amp takutnya syarat terpenuhi informasi bantuannya",
+                "izin terkait kebijakan akses khusus unggah proposal skripsi semester genap mekanisme nya menghubungi calon dosen pembimbing terkait pra proposal verifikasi balasan verifikasi beliau tombol pengajuan proposal aktif infonya",
+                "minggu mengajukan perpanjangan pkl form disediakan akademik balasan apapun tau kelanjutannya",
+                "siang sebentar terkait progres permohonan pengembalian sisa saldo perkembangannya perihal mengajukan permohonan sebulan kemajuan permohonan sebulan melengkapi lengkapi menu yudisium amp wisuda laman siam diberitahu salah teman memiliki kendala mengurus minggu siam nya tertulis tagihan dikembalikan teman mengisi siam menu yudisium amp wisuda jumat mengurus sebulan kejelasan teman mengurus minggu langsung proses penjelasannya kesalahan perkataan perihal permohonan",
+                "diterima program kampus merdeka pengisian krs ditutup mengisi krs sks ambil diterima diterima kampus merdeka krs semester full sks presensi berjalan mengisi presensi membiarkan krs diperbarui mata kuliah kampus merdeka",
+                "yth admin halo filkom krisna teknik informatika nim kritis mengajukan perpanjangan studi https kendala nilai transkrip mengajukan mata kuliah induksi riset pada https seminar hasil transkrip mata kuliah dropsaat dikirimkan email pendaftaran semhas ujian skripsi drop mata kuliah dibantu akademik https amp coba mengajukan cetak transkrip nilai pada https minggu mata kuliah induksi reset status filkom apps pengajuan yudisium diproses tinggal mendaftar yudisium senin feb drop mata kuliah pada https email transkrip nilai terima perhatian bantuan admin halo filkom ucapkan",
+                "proses skripsi ajukan tanggal februari verifikasi akademik skripsi tahap verifikasi kaprodi mengajukan dosen pembimbing batas pendek lakukan",
+                "mendaftar yudisium tagihan siam perubahan permasalahan menemui wakil dekan proses berkas diurus konfirmasinya",
+                "menghubungi halo selma balasan dibutuhkan pencairan dananya penjelasannya",
+                "drop mata kuliah daftar yudisium tanggal februari pengisian form balasan email akademik tahap proses",
+                "hormat gede agastya darma laksana teknik informatika nim konfirmasi diterima pkl status skripsi mengisi form konfirmasi diterima pkl departemen teknik informatika via link https tanggal feb dosen pembimbing ketua program studi adakah konfirmasi pkl langkah melaksanakan pkl status skripsi verifikasi kaprodi lakukan deadline jadwal penerbitan surat tugas tanggal maret  hormat gede agastya darma",
+                "huda minhajur rosyidin teknik informatika izin terdaftar pelaksanaan yudisium jumat maret status siam terdaftar lebihan ukt dicairkan mengurus kelebihan keuangan tanggapan keuangan mengisi data kelulusan siam mengikuti proses yudisium bali kondisi umat bali merayakan raya nyepi",
+                "huda minhajur rosyidin teknik informatika izin terdaftar pelaksanaan yudisium jumat maret status siam terdaftar lebihan ukt dicairkan mengurus kelebihan keuangan tanggapan keuangan mengisi data kelulusan siam mengikuti proses yudisium bali kondisi umat hindu bali merayakan raya nyepi",
+                "mengenai permohonan keringanan menemui wakil dekan berubah konfirmasinya",
+                "egy ihza madhani pti izin pendaftaran yudisium tanggal februari filkom apps status filkom apps menunggu penjadwalan balasan status siam berubah terdaftar pendaftaran yudisium teman teman penjadwalan langsung transkrip nilai pendaftaran siam kesalahan",
+                "hormat perkenalkan santi yunika sufiana teknik informatika terkait status submission jurnal jtiik deskripsi judul rancang bangun aplikasi math geo media pembelajaran dimensi berbasis mobile tanggal submission januari status submission proses pengeditan kelanjutan proses pengeditan progress pengeditan",
+                "perkenalkan permasalahan sidang juli alasan bisa terdaftar peserta yudisium januari jeda status siam blokir lulus sidang status siam blokir fakultas mendaftar status siam blokir pendaftaran yudisium pembayaran skl akademik permasalahan keuangan informasi akademik melunasi ukt semester ganjil solusinya mengajukan keringanan pembebasan ukt informasinya tambahan informasi mengajukan keringanan ukt semester genap sibaku setujui bukti terlampir pertimbangan keringanan ukt semester ganjil",
+                "shahnaz maulidini arisa nim tif konfirmasi siam menu wisuda upload berkas point link publikasi jurnal point sertifikasi status menunggu validasi sekitar arahannya point tsb divalidasi teman mengunggah divalidasi arahan bantuannya",
+                "pagi sebentar terkait pencairan saldo siam cairkan rektorat follow rektorat halo selma balasan apapun rektorat terhitung dibukanya siam sisa saldo tolong dibantu follow rektorat perihal saldo teman memiliki kendala cairkan minggu yang mengajukan permohonan pencairan saldo bantuannya",
+                "luthfi afrizal ardhani mhs teknik informatika nim izin status daftar antrean estimasi wisuda status cek upload berkas siam link jurnal sertifikat prosesi yudisium tgl maret berkas upload siam lengkap valid buktinya lampirkan screenshot siam",
+                "izin mekanisme perkuliahan hybrid berjalan semester memilih mengikuti perkuliahan full daring pergi malang mengikuti perkuliahan tentang bagaimana mekanisme kuliah hybrid memilih kuliah full daring mengkonfirmasi dosen adakah surat mengikuti perkuliahan daring diizinkan dosen mengikuti perkuliahan daring perhatiannya",
+                "huda minhajur rasyidin teknik informatika mohon izin terdaftar yudisium periode semester melaksanakan yudisium tanggal maret proses pengisian yudisium wisuda siam sisa ukt cairkan konfirmasi halo filkom proses keuangan pusat tanggal februari proses pengajuan email konfirmasi nomor kendali surat follow pesawat hariono follow berkala konfirmasi apapun perihal status sisa saldo siam mengisi data yudisium wisuda berstatus halo filkom arahan mengajukan tiket keuangan rektorat halo selma nomor telepon follow status siam isi data kelulusan langkah mengisi kelengkapan siam",
+                "assalamualaikum eko ardianto lulusan periode menerima ijazah transkrip terkait progres ijazah status nya proses tanda tangan rektor prosesnya selesai softcopy ijazah transkrip butuh keperluan mendaftar pekerjaan",
+                "saya moh fazril audy terkait pengembalian saldo ukt siam status pengembalian berhasil keterangan bakp saldo masuk rekening coba hubungi pengajuan statusnya proses selang yudisium statusnya bakp siam cek rekening mutasi uang masuk coba hubungi ulang biro keuangan pusat status lulus menerima panggilan diangkat coba menghubungi operator akademik pusat respon biro keuangan solusi",
+                "sebentar perihal pencairan sisa saldo siam selesai uang kembalikan rekening surat kuasa tanggal maret tolong bantuannya followup rektorat terkait pencairan sisa saldo terkait penyelesaian prosesnya pengertiannya terkait pencairan dana tolong dibantu cepat proses dikembalikan merepotkan",
+                "bantuannya terkait form bebas tanggungan perpustakaan pusat diakses link dapatkan website apps akses pendaftaran yudisium tanggal april  berkenan",
+                "izin terkait verifikasi yudisium apps jurnal blm verifikasi dicek revisi",
+                "haryono ayura safa chintami sistem informasi sap nim ungun terkait hutang pembayaran berdasarkan surat lampirkan jatuh tempo mei keluarga khawatir membayar solusi mencicil pembayaran membayarkan uang juta",
+                "ayura safa chintami sistem informasi sap nim ingun terkait hutang pembayaran berdasarkan surat lampirkan jatuh tempo mei keluarga khawatir membayar solusi mencicil pembayaran membayarkan uang juta",
+                "data divalidasi minggu periode wisuda mengisi form calon wisudawan minggu bantuannya",
+                "tiket email emailnya dinonaktifkan tiket status mahasiswa saat ini pada pddikti kemdikbud yudisium januari status pada pddikti kemdikbud lulus informasinya",
+                "disini saya mengajukan bantuan keuangan orang tua sanggup melunasi kekurangan ukt prosedur persyaratannya bantuannya",
+                "izin perihal penghapusan mata kuliah mengisi form menghapus mata kuliah tanggal mei email konfirmasi terkait transkrip kesalahan terkait data ajukan",
+                "pengurus akademik brilian ade putra teknik informatika nim seputar proses percetakan skm mengajukan percetakan skm persyaratan semhas tanggal skm email email pribadi email bantuannya mempermudah proses pendaftaran semhas",
+                "musthafa angkatan semester kemarin mengambil cuti sks selesai mengajukan surat pengantar secepatnya slot perusahaan tuju diambil orang dibantu menunggu semester selesai mengajukan ulang surat pengantarnya",
+                "selamat malam perkenalkan nama gibran tauchid terkait absensi salah mata kuliah mata kuliah tata kelola teknologi informasi diampu kariyoto terkonfirmasi alpha kali persentase hadir memenuhi syarat mengikuti ujian beliau mengadakan perkuliahan daring minggu pembukaan presensi siam dibuka menit kelas alpha beliau respon diperbolehkan mengajukan surat keterangan mengikuti uas pengawas",
+                "permisi kelompok surat pengajuan pkl minggu kirimkan form pengajuan pkl tindak sudah proses",
+                "dosen penguji memberitahukan nilai kkn memasukkan siam",
+                "perihal kesalahan alami memilih matkul semester kronologi alami pendataan memilih matkul adsi iesi matkul dibuka kelas memutuskan memilih matkul pilihan pemilihan sistem memilih matkul pilihan tersedia cek data pengumuman mata kuliah dibuka matkul pilih matkul pilih milik sayang data save bayar perihal membatalkan mata kuliah lintas menjalani matkul nilainya konversikan khs menerima pembagian jadwal siam mengirimkan bukti pembayaran",
+                "nilai pkl kelompok siam nilai pkl muncul siam berkas persyaratan penuhi",
+                "izin pembagian kelas muncul siam",
+                "menyelesaikan rangkaian pendataan pendaftaran pembayaran upload bukti pembayarannya jadwal semester kegiatan perkuliahan semester besok tindakan pembagian kelas secepatnya sekian",
+                "akademik sakti dewangga sap angkatan sehubungan perkuliahan semester siam tertera jadwal perkuliahan teman teman jadwal perkuliahannya alurnya proses pendataan upload berkas pendukung mengikuti sesuai panduannya alami solusinya bantuan arahannya",
+                "krishna yudie nim sistem informasi izin krs semester menginput mata kuliah pengabdian masyarakat pkm krs disetujui dosen mata kuliah pengabdian masyarakat pkm disetujui",
+                "selamat perkenalkan moch faiz irfanudin nim sistem informasi angkatan berkaitan semester pendaftaran khusus pendataan pembayaran mata kuliah agama islam sks mengajukan tanda tangan ketua pelaksana pembayaran sanksi buku siam jadwal mata kuliah agama islam solusinya",
+                "permisi nadi rachmat hendrawan tekkom izin melaksanakan seminar hasil skripsi selasa juni jam berita acara semhas apps ditunggu proses lalui sekian",
+                "izin status spreadsheet antrian wisuda nama harun ulum fajar status validasi syarat wisuda upload berkas siam link jurnal sertifikat siam melengkapi dokumen tiket email validasi ijazah dikirimkan email terima dokumen terpenuhi terpenuhi dikirimkan berkas terkait data validasi ijazah email phone status antrian wisuda saat wisuda  kekurangan penyampaian",
+                "permisi admin bantuannya menemukan kesalahan data dikti disana tertulis semester ganjil status peserta didik pindahan menempuh semester teknik komputer semester teknik informatika tindak lanjutnya berpengaruh pembuatan akun kampus merdeka kmmi",
+                "pendaftaran khusus semester google form jumat tanggal juni membuka apps mengambil mata kuliah pembayaran apps mengambil krs semester mengikuti semester",
+                "pendaftaran tanggal juni tanggal juni berkas status disetujui tinggal berkas bukti unggah jurnal belum disetujui bantuannya terkait",
+                "menyelesaikan tahapan pendaftaran wisuda status pin proses pengajuan teman pendaftaran wisudah validasi ijazah berstatus wisuda status berhubungan urutan pendaftaran lakukan penjelasan bantuannya",
+                "mengisi form surat aktif berkuliah seminggu kiriman email suratnya",
+                "nabila memfollow perihal permasalahan ipk website kampus merdeka tertulis diduga terinput nilai siam muncul mitra tujuan seleksi tahap interview solusinya tanggal kampus merdeka tutup seleksi tanggal kepastian perihal permasalahan bantuannya kesempatan berharga rekan terdampak tanggal perihal sampai tindakan rekan rekan mencoba menghubungi berbagai macam nihil hasil bantuannya",
+                "auliya firdaus teknik komputer mengisi form surat keterangan aktif kuliah selasa juli terhitung kerja surat keterangan aktif kuliah terima inbox email spam bantuannya mengecek surat keterangan aktif persyaratan pencairan beasiswa batas",
+                "izin kekurangan biaya ukt semester genap melunasi konsekuensi dapatkan langkah bantuannya",
+                "terkait pengisian data yudisium mengisikan apps tulisan penjadwalan pengisian siam menunggu chat akademik chat akademik teman mengisi chat membuka siam terkait pengisian yudisium diisikan mengisi data siam chat akademik lampirkan screenshot siam",
+                "semhas selasa tanggal kemarin akademik setelahnya dibalas menunggu email email mhs semhas jadwal ujian form berkas yang isi terlewatkan semhas",
+                "assalamualaikum  aisyah nur afifah nim teknik komputer mengajukan penangguhan ukt semester alasan dana beasiswa kjmu turun mengambil sks skripsi berniat ujian semester mengajukan penunggakan dana beasiswa turun",
+                "terkait ijazah nama anarya indika putra nim melihat daftar ijazah diambil fakultas wisuda periode desember ijazah daftar penjelasannya",
+                "izin terkait pengumpulan jurnal jtiik lakukan terhitung tanggal juli unggah statusnya submission teman teman butuh kerja terima kesalahan pengunggahan lakukan link jurnal butuhkan pendaftaran wisuda",
+                "melaksanakan seminar hasil skripsi tanggal juli kemarin jadwal sidang status apps penentuan dosen penguji sidang dijadwalkan semester nggeh  bantuannya"
+            ],
+            "responses": [
+                "Banding tersebut merupakan program dari KBMSI, hingga saat ini belum ada arahan dari Universitas dan Fakultas terkait banding UKT, silahkan menghubungi BEM Fakultas."
+            ]
+        },
+        {
+            "tag": "terlambat_pengajuan_bantuan",
+            "patterns": [
+                "peraturan rektor brawijaya nomor pasal pengurangan ukt pasal diberikan kepada kondisi menempuh ujian tugas lambat bulan sejak semester pernyataan mendaftar semhas jadwal berlaku pendaftaran semhas semester",
+                "eky cahya pratama tif izin pengisian form pengurangan ukt sibaku memilih pilihan penurunan ukt mengisi nominal angsuran pengangsuran ukt mengakses form memilih opsi pengangsuran ukt prosedurnya mengisi menentukan nominalnya",
+                "izin memperkenalkan aji rahman hakim teknik komputer angkatan nim melaporkan problem hadapi kronologinya mengajukan permohonan pengurangan ukt website sibaku alasan terkena bencana finalisasi data finalisasi data bencana berubah tua meninggal mengisi data alasan terkena bencana surat pengajuan pengurangan ukt proses bukti",
+                "ayah covid rumahkan gaji kuliah semester membayar ukt golongan ukt diturunkan golongan pengurangan ukt lakukan bantuannya",
+                "pengajuan pengurangan ukt penggantian kategori jika tanggal batas pengajuan",
+                "izin pengumuman pengurangan ukt kalo tau pengumuman pengurangannya jam dikasih tau pengurangan ukt ditolak mengajukan cicilan dikarenakan orang tua terkena mengeluarkan pengeluaran",
+                "dwinta herliana nim mengajukan angsuran pengajuan pengurangan ukt kemarin angsuran bayarkan angsuran lampirkan screenshot tagihan siam bantuannya ucapkan",
+                "naufal sistem informasi bantuannya mengajukan pengurangan ukt ukt golongan mengajukan semenjak covid agustus total tagihan siam bantuannya orang tua pekerjaannya terdampak terdampak mengajukan sibaku berkenan membantu",
+                "permisi mengajukan pengurangan ukt siam status setuju malam buka status tolak solusinya gimana",
+                "pengajuan bantuan keuangan kategori pengurangan ukt tagihan ukt siam perubahan",
+                "tiket nama adysha joseva laksmana nim ilmu komputer prodi pendidikan teknologi informasi ukt mengajukan permohonan mendapatkan bantuan ukt kemendikbud pengurangan ukt pemotongan penghasilan orang tua akibat pandemic beban tambahan adik masuk kuliah terdampak himbauan wakil dekan pengajuan situs lampirkan mendukung permohonan tiket pengajuan perhatiannya ucapkan  malang agustus adysha joseva laksmana",
+                "semester bantuan kemendikbud pengurangan ukt juta ukt juta semester pengumuman grup angkatan fakultas mengisi form bantuan keuangan kemendikbud link https semester pemberitahuan terkait bantuan pengurangan kemendikbud didapatkan",
+                "pengurangan ukt maksimal mengambil mengambil",
+                "pendaftaran bantuan keuangan kemendikbud google form disuruh memasukkan besaran ukt semester kemarin bantuan pengurangan ukt mengisi besaran menulis nominal golongan ukt menulis nominal bayarkan semester ganjil",
+                "mengikuti prosedur perpanjangan studi alhamdulillah status berubah siam total tagihan ukt normal merujuk surat edaran rektor pengurangan ukt memenuhi dipotong tagihan ukt tagihan ukt normal",
+                "teknik komputer angkatan perihal keterlambatan pembayaran ukt status siam terdaftar tagihan ukt berkurang pembayaran ukt lakukan pengurangan ukt dapatkan membutuhkan pengurangan ukt",
+                "banjarbaru agustus perihal permohonan pengurangan ukt yth agus wahyu widodo wakil dekan bidang administrasi keuangan fakultas ilmu komputer brawijaya malang hormat bertanda tangan dibawah nama anggara priambodo johansyah nim program studi teknik informatika besarnya total tagihan semester surat mengajukan permohonan pengurangan kondisi memaksa usaha warung mengalami penurunan pendapatan drastis kondisi serabutan kedai kopi membantu kebutuhan hidup keluarga ayah karenakan perusahaan ayah bangkrut memiliki adik berkuliah biaya kuliah menanggung berhutang orang kondisi akademik menyisakan sidang skripsi ulang di semester dinyatakan lulus pembayaran ukt semester melampaui batas pembayaran fokus merawat ayah rumah terkena kondisinya sekeluarga terkena virus tanggal juli agustus dinyatakan negative kondisi kritis rumah menolong rumah sakit daerah penuh sekeluarga terkena covid total berdekatan sekeluarga terkena kali covid ayah tahap pemulihan nyatakan negatif berjualan kondisi memohon melewatkan pembayaran ukt semester lubuk hati mengharapkan kemurahan hati bantuan pembayaran ukt semester permohonan surat sesuai kondisi perhatiannya ucapkan hormat pemohon anggara priambodo johansyah",
+                "pemrosesan pengurangan ukt terakhir pemrograman krs dan besok tanggal sudah mulai pembukaan jadwal mata kuliah",
+                "selamat malam tanggal agustus kami telah pembayaran sesuai tertera siam anak kami manuel nicholas berharap permohonan bantuan ukt semester ganjil sampaikan dapat disetujui pimpinan brawijaya informasikan bahwa dikarenakan proses permohonan ukt membutuhkan mengakibatkan anak kelas mata kuliah abd anak kelas mata kuliah bantuannya ucapkan  hormat parlindungan nainggolan amp manuel nicholas",
+                "tagihan ukt bantuan pengurangan ukt mengambil tagihan semester ganjil dipotong dibayar berhasil memproses angka tagihan siam",
+                "akademik perkenalkan orang tua christ michael doha siregar permohonan karena miskomunikasi anak akademi kendala pembayaran ukt anak agustus anak sdh mengajukan pengurangan ukt tdk berhasil dilanjutkan program pengurangan ukt agustus kemarin anak menunggu jawabannya via email jawabannya pengurangan ukt dimohonkan semester mengalami phk pemutusan hubungan kerja kantor per tanggal agustus kemarin berdampak keuangan keluarga tinggal mamanya utk menghidupi keluarga kali memohon pengurangan ukt utk meringankan keuangan keluarga keluarga berharap semester ukt anak dibantu diperbaharui kondisi pekerjaan orangtua anak miskomunikasi menyebabkan keterlambatan pembayaran ukt penyusunan krs anak keluarga memohon bantuan akademik anak mengikuti perkuliahan semester anak berkomunikasi akademik mengharapkan bantuan akademik permasalahan anak kedepannya keluarga berharap perubahan ukt anak bantuannya keluarga",
+                "alasan pengurangan ukt diatas orang tua mengalami phk surat phk terlampir",
+                "pengurangan ukt pendaftaran yudisium",
+                "lampirkan surat permohonan pengurangan ukt",
+                "agustus mengajukan pengurangan ukt semester siam dikurangi tanggungan uktnya dijadikan cicilan bayar sisanya bayar langsung",
+                "dwi indra kusuma sap izin membaca ketentuan pengurangan ukt reguler sap semester semester smst tinggal pengerjaan skripsi progress mengajukan bantuan keringan pembayaran ukt",
+                "admin izin perihal ukt sehubungan memasuki semester sks mengambil skripsi berkesempatan pengurangan ukt membaca info pengurangan ukt diploma pada semester menempuh sks mengambil mata kuliah sks keringanan ukt informasi mengambil skripsi total sks semester mata kuliah ambil mengambil mata kuliah skripsi semester melanjutkan skripsi terbebani biaya ukt full masuk akal mengambil skripsi total sks besar harapan keringanan ukt meringankan biaya akademik  admin",
+                "ass  pengangsuran ukt menyediakan pengangsuran ukt dari https mengajukan pengurangan ukt peluang terima wsb",
+                "nama mayer omega parlindungan sistem informasi website sibaku form data permohonan disitu isian judulnya permohonan perubahan kelompok ukt pengurangan ukt pembebasan isian dibatasi pilihan pilihan alasan sesuai alasan mengajukan bantuan keuangan bingung mengosongkan pilihannya pilihan bantuannya",
+                "nama mayer omega parlindungan sistem informasi website sibaku form data permohonan disitu isian judulnya permohonan perubahan kelompok ukt pengurangan ukt pembebasan ukt isian dibatasi pilihan pilihan alasan sesuai alasan mengajukan bantuan keuangan bingung mengosongkan pilihannya pilihan pilihan gambar",
+                "permisi izin pilihan pada foto kirim orang tua wirausaha umkm pilihnya ada pula pengurangan ukt berkenan informasi bermanfaat",
+                "mohon muhammad nabil rabbani tif nim semester telat info telat mendaftar pengajuan pengurangan ukt minggu sibuk pekerjaan pulang lelah pulang kerja langsung istirahat kemarin info masuk tahap verifikasi bem daftar langsung semester kemarin mengajukan acc bingung cari pinjaman uang kondisi orang tua mengalami pengurangan gaji perusahaan orang tua dirumah usaha ternak kondisi uang hasil kerja membayar kesalahan semoga dimaklumi kesempatan terima pagi",
+                "benediktus kevin mulia mengajukan keberatan ditolaknya pengajuan pengurangan ukt ajukan diumumkan tanggal seleksi alih program tinggal seminar hasil sidang bukti bap yaa dibilang data dukung nya sesuai",
+                "mengajukan pengurangan ukt semester genap",
+                "dwinta herliana nim mengajukan angsuran ukt pengajuan bantuan pengurangan ukt angsuran membayar angsuran lampirkan screenshot tagihan semester genap siam berharap mengabulkan permohonan angsuran pendapatan orang tua berdampak pandemi covid bantuan ucapkan",
+                "izin pengajuan pengurangan ukt ditolak yaa rencana semhas sidang februari pengurangan ukt",
+                "joshua arnold mengajukan bantuan keuangan ukt semester izin lihat pengumumannya siam ukt normal pengurangan apapun angsur mengajukan angsuran ukt pengurangan ukt menyebabkan pengajuan ditolak harap memberikan konfirmasi kasih perhatian",
+                "permohonan pengurangan ukt pintu sibaku ditutup saudara disilahkan mengajukan pengurangan ukt semester pengajuan angsuran di silahkan mengajukan permohonan tertulis wakil dekan surat permohonan surat pribadi format khusus silahkan diajukan format rapi sopan dikirim via halo filkom nomor tiket",
+                "izin mahasiswa magister filkom nim mengajukan pengurangan ukt tolak diarahkan disetujui angsuran kali smster tagihan penuh tagihan angsuran infonya",
+                "izin pengumuman pengurangan ukt kalo tau pengumuman pengurangannya jam dikasih tau pengurangan ukt ditolak mengajukan cicilan",
+                "admin perkenalkan steven felix octo pasaribu program studi teknologi informasi angkatan mengajukan mengajukan bantuan pengurangan ukt sibaku mengecek statusnya bantuan ditolak data sesuai berkenan data sesuai mengajukan ulang membutuhkan pengurangan ukt ayah pensiun lampirkan link drive terkait file pengajuan bantuan ukt https  merepotkan semoga sehat",
+                "total pembayaran semester genap kemarin mengajukan pengurangan ukt cek siam disetujui cek menu registrasi total tagihan nominal berkurang",
+                "belgis berliana putri fakultas ilmu komputer izin bantuan ukt siam tertulis pengajuan pengurangan ukt disetujui bantuan cek total tagihan ukt dibayarkan nominal dikurangi bantuan solusi perihal perhatiannya",
+                "nama ivan lianto nim teknik informatika  perkenalkan nama ivan lianto teknik mengajukan permohonan bantuan ukt mengajukan permohonan bantuan ukt website sibaku memohon keringanan ukt alasan semhas finalisasi data tanggal januari jadwal sidang skripsi tanggal januari melewati batas permohonan bantuan ukt pembebasan pengajuannya diundur tanggal januari mengajukan finalisasi data tanggal januari pengajuan yudisium tanggal januari pendaftaran yudisium tanggal januari revisi berkas yudisium mengakibatkan verifikasi disetujui diwajibkan menghubungi mengajukan revisi berkas tanggal januari pendaftaran yudisium berhasil diverifikasi tinggal menunggu penjadwalan yudisium tagihan ukt keringanan ukt permohonan pengurangan ukt alasan semhas kenyataannya pendaftaran yudisium tinggal menunggu jadwal yudisium mengajukan permohonan pembebasan ukt pendaftaran yudisium tinggal menunggu jadwal yudisium pembebasan mengajukan permohonan keringanan ukt ukt berat pekerjaan orang tua terkena dampak lampirkan dibutuhkan permohonan ukt berita acara sidang skripsi surat permohonan rektor pengajuan sibaku tanggal januari ktm pas foto ktp orang tua slip gaji orang tua pandemi slip gaji orang tua pandemi status pengerjaan skripsi permohonan bantuan ukt sesuai kondisi harap membantu mempertimbangkannya perhatian ucapkan",
+                "dana beasiswa transferkan ditahan saldo siam potongan dana beasiswa ajukan semester ganjil mengajukan pengurangan ukt semester genap alasan tinggal melaksanakan semhas sidang mengambil mata kuliah aneh yaa kampus",
+                "aneh mengajukan tahapan verifikasi bem pengajuan ditolak alasan data dukung lengkap bukti lembar surat permohonan rektor tandatangani materai orangtua slip gaji orang tua ktp ktp amp kartu keluarga orangtua ktm alasannya bantuan beasiswa kemendikbud bantuan beasiswa kemendikbud semester ganjil cair nya oktober layak pengurangan ukt dipotong dana beasiswa siam tolong harap admin halo filkom",
+                "muhammad zuman ananta teknik komputer verifikasi ukt mengajukan perubahan kelompok ukt tulisannya siam disetujui pengurangan ukt semester ukt dibayar dikurangi mengajukan keringanan",
+                "permohonan pengurangan ukt orang tua mengalami phk surat permohonan lampirkan",
+                "perkenalkan miranda eristiana sap izin terkait pengajuan pengurangan ukt ditolak kemarin lihat status bantuan keuangan siam ditolak berkas mendukung upload sibaku berkas upload sesuai kebijakan mengupload bukti slip gaji ortu pandemi kondisi keuangan ortu mengalami kesulitan covid selesai skripsi semester mengambil matkul skripsi februari menjalankan sidang skripsi ujian skripsi secepatnya pengajuan ditolak penjelasannya orang tua mojokerto menemui salah staf keuangan penjelasan",
+                "perkenalkan miranda eristiana sap lampirkan bukti dokumen pendukung pengurangan ukt",
+                "ayu putu augie sap permohonan pengurangan ukt kemarin ditolak keterangannya berkas sesuai desember semester genap sidang skripsi mengajukan permohonan pengurangan ukt ulang berdasarkan informasi teman langsung mengajukan permohonan wadek",
+                "baca peraturan rektor semester pengurangan ukt memenuhi syarat kemarin sibaku melampirkan berita acara diupload permohonan bantuannya",
+                "selamat malam izin terkait bantuan keuangan diselenggarakan kemarin dat kemarin ditolak pengajuan perubahan kelompok ukt dimana mandiri kelompok ukt rendah keringanan pengajuan ulang pengurang ukt kembaran keringanan pengurangan ukt keluarga terkena covid dimana butuh keringanan",
+                "pengajuan pengurangan ukt ditolak pengangsuran ukt bayaran juta",
+                "informasinya izin mengajukan permohonan pengurangan ukt bantuan arahannya",
+                "yaa mengajukan pengurangan ukt sibaku pengajuan advokesma bem diajukan sibaku advokesma mengajukan yaa",
+                "ukt berat ucapkan  bantuan kekurangannya pengurangan ukt semester semester angsuran angsuran",
+                "perkenalkan miranda eristiana sap izin terkait pengajuan pengurangan ukt ajukan tanggal januari tanggal februari melihat siam tagihan keterangan angsuran tanggal februari kemarin membayarnya senilai status pembayaran tambahan sisa saldo senilai tagihan bank lampirkan foto nya penjelasannya",
+                "ujian skripsi revisi mendaftar yudisium sebentar bayar ukt sisa saldo siam biarkan menunggu pengurangan ukt",
+                "perkenalkan aisyah angkatan melaporkan terkait ukt berubah semester memperoleh bidikmisi semester semester ukt senilai juta rupiah screenshot tagihan ukt semester kontrak bidikmisi selesai ukt semester juta rupiah ukt bayarkan juta rupiah screenshot tagihan ukt semester semester tagihan juta rupiah nilai kali lipat ukt edaran terkait pengurangan ukt mendaftarkan yudisium semester screenshot tagihan ukt semester semester menyelesaikan skripsi sidang semester ambil matkul skripsi persyaratan aktif pendaftaran yudisium screenshot bukti menyelesaikan skripsi pendaftaran yudisium filkom apps tolong dicek terkait tagihan ukt memberikannya mendaftar yudisium",
+                "izin terkait pendataan pengurangan ukt semester alurnya",
+                "izin ketentuan pengurangan ukt semester menempuh sks mengambil sks skripsi semester pengurangan otomatis sistem siam mengajukan bantuan keuangan sibaku",
+                "assalamualaikum perkenalkan fadhil widhi prasetyo nim brawijaya terkait bantuan keuangan membayar ukt diperbolehkan memilih kategori pengurangan ukt pencicilan ukt kondisi keuangan orang tua stabil salah orang tua meninggal dunia  perhatiannya",
+                "akan mengajukan pengurangan ukt website membuka website halaman berkas error gambar dibawah penyelesaiannya lakukan",
+                "pengajuan pengurangan ukt perbolehkan meterai orang tua kita dirumah mengeprint berkas berkas",
+                "permisi mengganggu pengisian mengajukan permohonan perubahan kelompok memilih menempuh skripsi tinggal menunggu yudisium berkas surat permohonan rektor mendapatnya",
+                "izin mengajukan bantuan pengurangan ukt maksimal pengurangan juta",
+                "daftar ulang semester mengurus persyaratan yudisium mekanisme pengajuan pendaftaran ulang terdaftar yudisium semester membayar ukt semester semester pengurangan ukt tinggal mendaftar yudisium perhatiannya",
+                "daftar ulang semester mengurus persyaratan mekanisme pengajuan pendaftaran ulang terdaftar yudisium semester membayar ukt semester semester pengurangan ukt tinggal mendaftar yudisium perhatiannya",
+                "program pembebasan pengurangan ukt menempuh sidang skripsi mendaftar yudisium semester proses pengajuannya",
+                "izin terkait pengajuan pengurangan ukt semester keatas tahapan prosedurnya",
+                "permisi pengurangan ukt saudara kandung berkuliah tata luring",
+                "tau informasi pengurangan ukt batas kemarin lusa tolong mengajukan tolong kesulitan membayar ukt penuh",
+                "mencoba mengajukan pengurangan ukt sibaku kemarin informasi bem berkas lampirkan kategori pilih memilih pembebasan bem rekomendasi pengajuan halo filkom solusi lampirkan berkas kemarin pengajuan pengurangan sibaku dan mohon"
+            ],
+            "responses": [
+                "Untuk permohonan pengurangan UKT dilakukan melalui satu pintu pada sibaku.ub.ac.id dan dikarenakan sibaku telah ditutup Saudara disilahkan mengajukan pengurangan UKT di semester berikutnya. Sedangkan untuk pengajuan angsuran di silahkan mengajukan permohonan tertulis ditujukan kepada Wakil Dekan II FILKOM UB. Untuk surat permohonan berupan surat pribadi dan tidak ada format khusus. Silahkan diajukan dengan format rapi dan sopan dan dikirim via halo filkom dengan nomor tiket yang sama.Terima Kasih."
+            ]
+        },
+        {
+            "tag": "pencairan beasiswa kemendikbud",
+            "patterns": [
+                "pencairan beasiswa informasi email informasi media sosial instagram brawijaya",
+                "auliya firdaus teknik komputer menerima beasiswa scientist pemerintah kabupaten bojonegoro syarat pencairan surat keterangan jalur masuk surat keterangan nominal ukt ketentuan format khusus ditentukan data keterangan jalur masuk sbmptn jalur masuk nominal ukt diverifikasi kampus stempel tanda tangan bantuan keterangan syarat pencairan beasiswa  bantuannya",
+                "auliya firdaus teknik komputer mengisi form surat keterangan aktif kuliah selasa juli terhitung kerja surat keterangan aktif kuliah terima inbox email spam bantuannya mengecek surat keterangan aktif persyaratan pencairan beasiswa batas"
+            ],
+            "responses": [
+                "Silahkan membuat surat dilampiri bukti bayar dan buku hal depan rek ybs dikirim ke tupusatub@gmail.com"
+            ]
+        },
+        {
+            "tag": "tidak_dapat_upload_berkas_yudisium",
+            "patterns": [
+                "bantuan ukt bantuan ukt ketentuan permendikbud semester sks potongan ukt tahap semester tinggal menyelesaikan skripsi",
+                "melampirkan bukti dimana semester menempuh sks hanya memprogram skripsi lampiran",
+                "cuti kuliah tes toefl sertifikasi via siam",
+                "ukt juta sisa ipi juta insya allah bayarkan tanggal desember cepat dana tanggal",
+                "ukt semester sks diambil berdasarkan kategori tersebut saya dalamnya mendapatkannya semester membayar ukt muncul link pengumuman dibawah https jawabannya",
+                "surat rekomendasi mbkm mengajukan surat rekomendasi kali karena saya mengikuti program misb bangkit sib dicoding batch berencana mendaftar program msi lainnya mendaftar program msib surat rekomendasi",
+                "pergantian semester ganjil sistem otomatis penurunan ukt mengambil sks tagihan ukt dimana surat permohonan pembayaran biaya semester ganjil mengisi website sibaku"
+            ],
+            "responses": [
+                "Proses upload menunggu penerbitan SK Yudisium dengan perkiraan tanggal 16 Agustus 2021 atau lebih, mohon update dalam SIAM"
+            ]
+        },
+        {
+            "tag": "bantuan_ukt_dan_ukt_kemendikbud_ristek",
+            "patterns": [
+                "selamat malam izin bantuan ukt kemendikbud ristek baca berita bantuan kemendikbud mengajukan bantuannya prosedurnya bantuan semester semester  sumber berita bantuan ukt juta kemendikbud ristek syaratnya klik bca http"
+            ],
+            "responses": [
+                "Terkait detail prosedur masih menunggu informasi lebih lanjut dari kemendikbudristek. Sampai saat ini dari Kemendikbudristek masih ada informasi berikut saja https://www.kemdikbud.go.id/main/blog/2021/08/kemendikbudristek-lanjutkan-pemberian-bantuan-kuota-data-internet-dan-uang-kuliah-tunggal-tahun-2021\" target=\"_blankhttps://www.kemdikbud.go.id/main/blog/2021/08/kemendikbudristek-lanjutkan-pemberian-bantuan-kuota-data-internet-dan-uang-kuliah-tunggal-tahun-2021 Harap follow media sosial filkom di IG (filkomub) dan twitter (filkomUB) untuk bisa mendapat update terbaru jika ada informasi terkait pengajuan bantuan tersebut. Terima kasih"
+            ]
+        },
+        {
+            "tag": "tahapan pendaftaran wisuda",
+            "patterns": [
+                "menunggu tahapan pendaftaran wisuda unggah dokumen mengisi form tautan https verifikasi data ijazah transkrip bpk joko yudisium center nomor message only mengisi data tracer study menyelesaikan poin tinggal menunggu antrian wisuda informasi antrian wisuda diakses https",
+                "mengikuti tahapan pendaftaran wisuda poin link di bawahnya informasi antrian wisuda page not found screenshot dibawah informasi",
+                "tahapan pendaftaran wisuda link paper jtiik diterbitkan biarkan kosong status kelengkapan data siam kecuali link url jurnal valid verifikasi data ijazah transkrip joko mengikuti prosesi yudisium pengajuan",
+                "assalamualaikum pagi kelanjutan perihal proses pengembalian saldo siam kelanjutan prosesnya laman https tertulis bahwa pendaftaran yudisium tanggal januari besok jumat tahapan pendaftaran yudisium saya tinggal mengisi data yudisium laman siam siam besok membayar ukt memohon bantuannya mengikuti yudisium periode membayar ukt tinggal mengisi data yudisium siam",
+                "tahapan pendaftaran wisuda status akademik antrian wisuda cek upload berkas siam link jurnal sertifikat izin mengonfirmasi upload berkas siam statusnya valid sekian perkataan berkenan"
+            ],
+            "responses": [
+                "Berikut adalah tahapan pendaftaran wisuda FILKOM UB: 1. unggah dokumen di SIAM2. mengisi gform di tautan berikut https://filkom.ub.ac.id/kemahasiswaan/layanan-kemahasiswaan/\" target=\"blankhttps://filkom.ub.ac.id/kemahasiswaan/layanan-kemahasiswaan/3. verifikasi data ijazah dan transkrip ke Bpk. Joko melalui Yudisium WA Center di nomor 081132007577 (wa message only)4. mengisi data tracer study melalui *bit.ly/TracerFilkom*5. setelah menyelesaikan 4 poin di atas tinggal menunggu antrian wisudainformasi antrian wisuda dapat diakses di https://filkom.ub.ac.id/kemahasiswaan/informasi-wisuda/\" target=\"_blankhttps://filkom.ub.ac.id/kemahasiswaan/informasi-wisuda/"
+            ]
+        },
+        {
+            "tag": "cara_daftar_bantuan_kemendikbudristek",
+            "patterns": [
+                "angkatan wisuda wisuda daftar nya",
+                "mengerti perihal masuk cuti daftar kkn juli cuti semester oktober masuk pengisian krs semester ganjil oktober mengikuti jadwal pengisian krs angkatan cuti setahun mengulang mata kuliah nilainya nilainya semester dimana makanya kali diambil berubah meningkat nilai diulang rendah nilai berpengaruh semester dimana mengulang sks semester maksimum mengambil mengulang meningkatkan nilainya mengulang tunggu menyusun skripsi cuti cumlaude buku panduan cumlaude cuti harap berhasil susun bantuannya"
+            ],
+            "responses": [
+                "Berikut link pengisian Permohonan Bantuan UKT KEMDIKBUDRISTEK Semester Ganjil 2021/2022 https://bit.ly/BantUKTKemdikbudUBGanjil2021https://bit.ly/BantUKTKemdikbudUBGanjil2021 Adapun batas waktu pengisian link tersebut sampai 15 Agustus 2021, pukul 23.59 WIB."
+            ]
+        },
+        {
+            "tag": "bantuan_kemendikbud_tidak_terverifikasi",
+            "patterns": [
+                "semester ganjil kemarin mendaftar bantuan kemendikbud periode penerimaan surat edarannya mengajukan pembebasan ukt semester genap diterima cek siam ukt status tunda nominal ukt total tagihan bank terdaftar beasiswa kemendikbud ukt semester genap tertagih",
+                "perkenalkan ferry ardianto rismawan teknik informatika angkatan izin semester ganjil kemarin mendaftar bantuan kemendikbud menerima sms ganjil sms mengajukan pembebasan ukt semester genap sms diterima cek siam ukt status tunda nominal ukt total tagihan bank terdaftar beasiswa kemendikbud ukt semester genap tertagih semester ganjil membayar semester genapnya beasiswa kemendikbud periode penerimaannya",
+                "semester genap mengajukan permohonan angsuran tertulis skema ganda tanggal februari konfirmasi bantuan kemendikbud perpanjangan semester bantuan kemendikbud lupa input siam semester genap lampirkan screenshot siam bantuannya",
+                "lampirkan foto tagihan ukt semester foto tagihan ukt semester ukt seharusnya sebesar bantuan kemendikbud ukt ditagihkan semester ukt bantuan solusinya  perhatiannya kesalahan",
+                "elfa fatimah sap bantuan ukt kemendikbud bantuan kemendikbud pelaksanaan pemotongan ukt tgl pembayaran ukt informasinya",
+                "dana bantuan kemendikbud masuk gapura dana bantuan kemendikbud sepengetahuan dana nya ditarik penarikan dananya",
+                "sisa tagihan bantuan kemendikbud sisa sisa siam total tagihan bank",
+                "kemarin kontak halo filkom email non pakai akun email non kira mungkin direspon direspon keterangannya bantuan kemendikbud tagihannya tercover dana menyisakan saldo semester membayar tagihannya",
+                "bantuan kemendikbud potongan",
+                "lampirkan surat kuasa harap surat kuasa menyelesaikan urusan pencairan dana bantuan kemendikbud hak terpilih bantuan harap diselesaikan berkepanjangan"
+            ],
+            "responses": [
+                "Sebagai informasi dari Kemahasiswaan Universitas,\u00a0 Bagi mahasiswa yang mendapat Bantuan Kemendikbud pada semester Ganjil 2020/2021 namun Melakukan Cuti Akademik Pada Semester Genap 2020/2021, maka Bantuan Kemendikbud tsb tidak diberikan pada yang bersangkutan. Apabila kurang jelas dapat menghubungi Kemahasiswaan Universitas."
+            ]
+        },
+        {
+            "tag": "sapaan",
+            "patterns": [
+                "halo",
+                "selamat siang",
+                "selamat malam",
+                "selamat pagi",
+                "salam"
+            ],
+            "responses": [
+                "Halo, saya disini Halo FILKOM Bot akan membantu anda dalam menjawab pertanyaan anda untuk urusan kemahasiswaan dan akademik."
+            ]
+        },
+        {
+            "tag": "penutup",
+            "patterns": [
+                "terima kasih",
+                "menjawab",
+                "sudah menjawab",
+                "cukup"
+            ],
+            "responses": [
+                "Terima kasih telah menggunakan layanan Halo FILKOM Bot, jika ada hal hal yang ingin ditanyakan lebih lanjut jangan ragu menghubungi saya lagi. Have a good day."
+            ]
+        },
+        {
+            "tag": "no_response",
+            "patterns": [],
+            "responses": [
+                "Pertanyaan belum saya kenali... silahkan menghubungi unit terkait untuk menjawab pertanyaan tersebut di Halo FILKOM. Anda juga dapat menambahkan pertanyaan anda pada <a href='https://s.ub.ac.id/tanyafilkombot' target='_blank'>laman berikut</a> untuk membantu mengembangkan sistem ini"
+            ]
+        }
+    ]
+}

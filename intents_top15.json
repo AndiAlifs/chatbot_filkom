@@ -399,7 +399,7 @@
             ]
         },
         {
-            "tag": "pencairan beasiswa kemendikbud",
+            "tag": "pencairan_beasiswa_kemendikbud",
             "patterns": [
                 "pencairan beasiswa informasi email informasi media sosial instagram brawijaya",
                 "auliya firdaus teknik komputer menerima beasiswa scientist pemerintah kabupaten bojonegoro syarat pencairan surat keterangan jalur masuk surat keterangan nominal ukt ketentuan format khusus ditentukan data keterangan jalur masuk sbmptn jalur masuk nominal ukt diverifikasi kampus stempel tanda tangan bantuan keterangan syarat pencairan beasiswa  bantuannya",
@@ -434,7 +434,7 @@
             ]
         },
         {
-            "tag": "tahapan pendaftaran wisuda",
+            "tag": "tahapan_pendaftaran_wisuda",
             "patterns": [
                 "menunggu tahapan pendaftaran wisuda unggah dokumen mengisi form tautan https verifikasi data ijazah transkrip bpk joko yudisium center nomor message only mengisi data tracer study menyelesaikan poin tinggal menunggu antrian wisuda informasi antrian wisuda diakses https",
                 "mengikuti tahapan pendaftaran wisuda poin link di bawahnya informasi antrian wisuda page not found screenshot dibawah informasi",

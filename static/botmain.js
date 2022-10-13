@@ -46,6 +46,10 @@
         console.log(rawText);
         console.log(data);
         const msgText = data;
+
+        // text2speech
+        // responsiveVoice.speak(msgText, "Indonesian Female");
+        
         appendMessage(BOT_NAME, BOT_IMG, "left", msgText);
         if (msgText != "Terima kasih telah menggunakan layanan HaloFILKOM Bot, jika ada hal hal yang ingin ditanyakan lebih lanjut jangan ragu menghubungi saya lagi. Have a good day.") {
           appendMessage(BOT_NAME, BOT_IMG, "left", "Apakah ada pertanyaan yang ingin anda tanyakan atau sudah cukup?");

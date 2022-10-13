@@ -1,6 +1,6 @@
-# Chatbot Enigma
+# Chatbot Filkom
 
-Enigma chatbot is a machine learning based chatbot that can respond user input message to a proper responds, such as greeting, asking name, etc.
+Filkom Chatbot is a machine learning based chatbot that can respond user input message to a proper responds, such as greeting, asking name, etc.
 ## Requirement
 * Python
 * Numpy

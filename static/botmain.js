@@ -22,6 +22,7 @@
 
     voiceButton.addEventListener("click", () => {
       if (standby==false) {
+        recognition.start();
         enableVoiceCommand();        
       }
       else{

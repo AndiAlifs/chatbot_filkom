@@ -20,6 +20,7 @@ recognition.interimResults = false;
 recognition.maxAlternatives = 1;
 
 let standby = false;
+recognition.start();
 
 recognition.onresult = (event) => {
     let last = event.results.length - 1;
@@ -44,7 +45,6 @@ recognition.end = (event) => {
 }
 
 function enableVoiceCommand() {
-    recognition.start();
     console.log('Ready to receive a command.');
     standby = true;
     appendMessage(BOT_NAME, BOT_IMG, "left","Fungsi Voice Command Diaktifkan ✅");

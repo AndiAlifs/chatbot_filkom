@@ -142,7 +142,21 @@
     cursor: pointer;
     transition: background 0.23s;
   }
+
   .msger-send-btn:hover {
+    background: rgb(0, 180, 50);
+  }
+  
+  #voicebutton {
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: lightblue;
+    color: #333333;
+    cursor: pointer;
+    transition: background 0.23s;
+    margin-right: 10px;
+  }
+  #voicebutton:hover {
     background: rgb(0, 180, 50);
   }
   

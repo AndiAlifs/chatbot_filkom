@@ -21,9 +21,6 @@ recognition.maxAlternatives = 1;
 
 let standby = false;
 
-recognition.start();
-console.log('Ready to receive a command.');
-
 recognition.onresult = (event) => {
     let last = event.results.length - 1;
     let text = event.results[last][0].transcript;
@@ -35,15 +32,28 @@ recognition.onresult = (event) => {
             document.querySelector(".msger-send-btn").click();
     }
     if (text.toLowerCase().includes('halo filkom') || text.toLowerCase().includes('halo film')){
-        standby = true;
-        appendMessage(BOT_NAME, BOT_IMG, "left","Fungsi Voice Command Diaktifkan ✅");
+        enableVoiceCommand();
     } else if (text.toLowerCase().includes('makasih filkom')  || text.toLowerCase().includes('makasih film')) {
-        standby = false;
-        appendMessage(BOT_NAME, BOT_IMG, "left","Fungsi Voice Command Dinonaktifkan ❌");
+        disableVoiceCommand();
     }
 
 }
 
 recognition.end = (event) => {
+    disableVoiceCommand();
+}
+
+function enableVoiceCommand() {
     recognition.start();
+    console.log('Ready to receive a command.');
+    standby = true;
+    appendMessage(BOT_NAME, BOT_IMG, "left","Fungsi Voice Command Diaktifkan ✅");
+    voiceButton.style.backgroundColor = "#ff0000";
+}
+
+function disableVoiceCommand() {
+    standby = false;
+    recognition.stop();
+    appendMessage(BOT_NAME, BOT_IMG, "left","Fungsi Voice Command Dinonaktifkan ❌");
+    voiceButton.style.backgroundColor = "lightblue";
 }

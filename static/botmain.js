@@ -2,6 +2,7 @@
     const msgerForm = get(".msger-inputarea");
     const msgerInput = get(".msger-input");
     const msgerChat = get(".msger-chat");
+    const voiceButton = document.querySelector("#voicebutton");
 
     const BOT_IMG = "static/halofilkom.png";
     const PERSON_IMG = "static/mahastudent.png";
@@ -17,6 +18,15 @@
       appendMessage(PERSON_NAME, PERSON_IMG, "right", msgText);
       msgerInput.value = "";
       botResponse(msgText);
+    });
+
+    voiceButton.addEventListener("click", () => {
+      if (standby==false) {
+        enableVoiceCommand();        
+      }
+      else{
+        disableVoiceCommand();
+      }
     });
 
     function appendMessage(name, img, side, text) {

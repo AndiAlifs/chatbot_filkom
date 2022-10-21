@@ -32,7 +32,7 @@ recognition.onresult = (event) => {
             console.log("kirim ke server");
             document.querySelector(".msger-send-btn").click();
     }
-    if (text.toLowerCase().includes('halo filkom') || text.toLowerCase().includes('halo film')){
+    if (text.toLowerCase().includes('halo') ||text.toLowerCase().includes('alo')){
         enableVoiceCommand();
     } else if (text.toLowerCase().includes('makasih filkom')  || text.toLowerCase().includes('makasih film')) {
         disableVoiceCommand();

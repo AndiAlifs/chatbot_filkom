@@ -2,6 +2,7 @@ from flask import Flask, render_template, request
 
 import chatbotMLbased as chatbot
 import MySQLdb
+import datetime
 
 # establish database connection
 db = MySQLdb.connect(host="db-mysql-sgp1-73465-do-user-12035841-0.b.db.ondigitalocean.com", 
@@ -28,11 +29,11 @@ def get_bot_response():
 
 @app.route("/send_log", methods=['POST'])
 def send_log_to_database():
-    pesan = request.args.get('pesan')
-    jawaban = request.args.get('jawaban')
+    pesan = request.form.get('pesan')
+    jawaban = request.form.get('jawaban')
     now_date = datetime.datetime.now()
     cursor = db.cursor()
-    cursor.execute("INSERT INTO log_chatbot (pesan, jawaban, tanggal) VALUES (%s, %s, %s)", (pesan, jawaban, now_date))
+    cursor.execute("INSERT INTO log_chatbot (pertanyaan, jawaban, waktu) VALUES (%s, %s, %s)", (pesan, jawaban, now_date))
     db.commit()
     return "success"
 

@@ -54,6 +54,10 @@
 
       // Bot Response
       $.get("/get", { msg: rawText }).done(function (data) {
+
+        // send data to log
+        $.post("/send_log", { pesan: rawText, jawaban: data });
+
         console.log(rawText);
         console.log(data);
         const msgText = data;

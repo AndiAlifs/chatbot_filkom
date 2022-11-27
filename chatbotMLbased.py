@@ -77,7 +77,6 @@ model = tf.keras.models.load_model("model_chatbot.h5")
 # machine learning model, uncomment to load
 # model = pickle.load(open("modelml_chatbot.pkl", "rb"))
 
-
 def clean_text(text):
     tokens = nltk.word_tokenize(text)
     tokens = [lemmatizer.lemmatize(word) for word in tokens]

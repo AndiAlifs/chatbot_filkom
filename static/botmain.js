@@ -56,11 +56,12 @@
       $.get("/get", { msg: rawText }).done(function (data) {
 
         // send data to log
-        $.post("/send_log", { pesan: rawText, jawaban: data });
+        $.post("/send_log", { pesan: rawText, 
+                            jawaban: data.responses,
+                            intent: data.intent,});
 
-        console.log(rawText);
         console.log(data);
-        const msgText = data;
+        const msgText = data.responses;
 
         // text2speech
         // responsiveVoice.speak(msgText, "Indonesian Female");

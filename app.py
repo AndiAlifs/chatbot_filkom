@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, jsonify
 
 import chatbotMLbased as chatbot
 import MySQLdb
@@ -25,15 +25,21 @@ def home():
 def get_bot_response():
     userText = request.args.get('msg')
     intent = chatbot.pred_class(userText)
-    return str(chatbot.get_response(intent))
+    responses = str(chatbot.get_response(intent))
+    return jsonify(
+        status='success',
+        responses=responses,
+        intent=intent[0]
+    )
 
 @app.route("/send_log", methods=['POST'])
 def send_log_to_database():
     pesan = request.form.get('pesan')
     jawaban = request.form.get('jawaban')
+    intent = request.form.get('intent')
     now_date = datetime.datetime.now()
     cursor = db.cursor()
-    cursor.execute("INSERT INTO log_chatbot (pertanyaan, jawaban, waktu) VALUES (%s, %s, %s)", (pesan, jawaban, now_date))
+    cursor.execute("INSERT INTO log_chatbot (pertanyaan, jawaban, waktu, tag) VALUES (%s, %s, %s, %s)", (pesan, jawaban, now_date, intent))
     db.commit()
     return "success"
 

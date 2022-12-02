@@ -4,18 +4,19 @@ import chatbotMLbased as chatbot
 import MySQLdb
 import datetime
 
-# establish database connection
-db = MySQLdb.connect(host="db-mysql-sgp1-73465-do-user-12035841-0.b.db.ondigitalocean.com", 
-                    user="doadmin", 
-                    passwd="AVNS_1GNQHAtlxYOkhNeywGX", 
-                    db="filkombot",
-                    port=25060,
-                    ssl={'ca': 'ca-certificate.crt'})
 
 # Creating ChatBot Instancep
 app = Flask(__name__)
 app.static_folder = 'static'
 
+def __app__():
+    # establish database connection
+    db = MySQLdb.connect(host="db-mysql-sgp1-73465-do-user-12035841-0.b.db.ondigitalocean.com", 
+                        user="doadmin", 
+                        passwd="AVNS_1GNQHAtlxYOkhNeywGX", 
+                        db="filkombot",
+                        port=25060,
+                        ssl={'ca': 'ca-certificate.crt'})
     
 @app.route("/")
 def home():
@@ -38,11 +39,24 @@ def send_log_to_database():
     jawaban = request.form.get('jawaban')
     intent = request.form.get('intent')
     now_date = datetime.datetime.now()
-    cursor = db.cursor()
-    cursor.execute("INSERT INTO log_chatbot (pertanyaan, jawaban, waktu, tag) VALUES (%s, %s, %s, %s)", (pesan, jawaban, now_date, intent))
-    db.commit()
-    return "success"
+    try:
+        cursor = db.cursor()
+        cursor.execute("INSERT INTO log_chatbot (pesan, jawaban, intent, tanggal) VALUES (%s, %s, %s, %s)", (pesan, jawaban, intent, now_date))
+        db.commit()
+        return jsonify(
+            status='success'
+        )
+    except:
+        __app__()
+        cursor = db.cursor()
+        cursor.execute("INSERT INTO log_chatbot (pesan, jawaban, intent, tanggal) VALUES (%s, %s, %s, %s)", (pesan, jawaban, intent, now_date))
+        db.commit()
+        return "success"
+        return jsonify(
+            status='error'
+        )
 
+    
 
 if __name__ == "__app__":
     app.run()

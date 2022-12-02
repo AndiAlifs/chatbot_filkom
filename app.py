@@ -9,14 +9,13 @@ import datetime
 app = Flask(__name__)
 app.static_folder = 'static'
 
-def __app__():
-    # establish database connection
-    db = MySQLdb.connect(host="db-mysql-sgp1-73465-do-user-12035841-0.b.db.ondigitalocean.com", 
-                        user="doadmin", 
-                        passwd="AVNS_1GNQHAtlxYOkhNeywGX", 
-                        db="filkombot",
-                        port=25060,
-                        ssl={'ca': 'ca-certificate.crt'})
+
+db = MySQLdb.connect(host="db-mysql-sgp1-73465-do-user-12035841-0.b.db.ondigitalocean.com", 
+                    user="doadmin", 
+                    passwd="AVNS_1GNQHAtlxYOkhNeywGX", 
+                    db="filkombot",
+                    port=25060,
+                    ssl={'ca': 'ca-certificate.crt'})
     
 @app.route("/")
 def home():
@@ -41,22 +40,25 @@ def send_log_to_database():
     now_date = datetime.datetime.now()
     try:
         cursor = db.cursor()
-        cursor.execute("INSERT INTO log_chatbot (pesan, jawaban, intent, tanggal) VALUES (%s, %s, %s, %s)", (pesan, jawaban, intent, now_date))
+        cursor.execute("INSERT INTO log_chatbot (pertanyaan, jawaban, tag, waktu) VALUES (%s, %s, %s, %s)", (pesan, jawaban, intent, now_date))
         db.commit()
         return jsonify(
             status='success'
         )
     except:
-        __app__()
+        db = MySQLdb.connect(host="db-mysql-sgp1-73465-do-user-12035841-0.b.db.ondigitalocean.com", 
+                    user="doadmin", 
+                    passwd="AVNS_1GNQHAtlxYOkhNeywGX", 
+                    db="filkombot",
+                    port=25060,
+                    ssl={'ca': 'ca-certificate.crt'})
         cursor = db.cursor()
-        cursor.execute("INSERT INTO log_chatbot (pesan, jawaban, intent, tanggal) VALUES (%s, %s, %s, %s)", (pesan, jawaban, intent, now_date))
+        cursor.execute("INSERT INTO log_chatbot (pertanyaan, jawaban, tag, waktu) VALUES (%s, %s, %s, %s)", (pesan, jawaban, intent, now_date))
         db.commit()
-        return "success"
+        return "error"
         return jsonify(
             status='error'
         )
-
-    
 
 if __name__ == "__app__":
     app.run()
